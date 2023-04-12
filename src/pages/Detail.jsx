@@ -46,7 +46,7 @@ export default function Detail() {
   }
 
   return (
-    <div className="w-full lg:px-[10rem] md:px-1  mx-auto  border-t-[1px] border-gray-700 pt-5 flex justify-between flex-wrap">
+    <div className="w-full  md:px-1  mx-auto  border-t-[1px] border-gray-700 pt-5 flex justify-between flex-wrap">
       <div className="lg:w-2/3 sm:w-full w-full p-2">
         {data &&
           data.items.map((item) => (
