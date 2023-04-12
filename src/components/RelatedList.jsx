@@ -1,11 +1,13 @@
 import React from "react";
 import useList from "../hooks/useList";
+import { useNavigate } from "react-router-dom";
 
 export default function RelatedList({ id }) {
   //   const { isLoading, isError, data, error } =
   //     useList(  `https://youtube.googleapis.com/youtube/v3/search?part=snippet&relatedToVideoId=${videoId}&type=video&key=AIzaSyD-fngmCmRBJ4-u7aNYlPwOhHGzX3IJHvE
   // `);
 
+  const navigate = useNavigate();
   const apiKey = process.env.REACT_APP_YOUTUBE_API_KEY;
   const { isLoading, isError, data, error } = useList([
     `relatedList`,
@@ -65,14 +67,14 @@ export default function RelatedList({ id }) {
             className="w-full cursor-pointer mb-2"
             onClick={() => {
               // eslint-disable-next-line no-restricted-globals
-              location.href = `/detail/${item.snippet.channelId}/${item.id.videoId}`;
+              navigate(`/detail/${item.snippet.channelId}/${item.id.videoId}`);
             }}
           >
             <img
               src={
                 item.snippet.thumbnails.maxres.url
                   ? item.snippet.thumbnails.maxres.url
-                  : item.snippet.thumbnails.medium.url
+                  : item.snippet.thumbnails.default.url
               }
               alt="thumbnail"
               className="w-full object-fill"
