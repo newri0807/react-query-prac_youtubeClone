@@ -58,7 +58,7 @@ export default function Detail() {
                 id="player"
                 className="w-full h-full absolute top-0 left-0"
                 // eslint-disable-next-line no-template-curly-in-string
-                src={`http://www.youtube.com/embed/${id}?enablejsapi=1&origin=http://example.com`}
+                src={`https://www.youtube.com/embed/${id}?enablejsapi=1&origin=http://example.com`}
               ></iframe>
               <h2 className="my-3 font-bold text-lg"> {item.snippet.title}</h2>
               <div className="flex justify-start items-center mt-4">
