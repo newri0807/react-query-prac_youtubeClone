@@ -1,0 +1,1575 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "h4onsjtTTHUbmWryXBoiUWSyyqY",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "jfXebk4h6AR191BTyErBlFzv9iA",
+            "id": "lpN3tJTz9kE",
+            "snippet": {
+                "publishedAt": "2023-02-06T16:00:08Z",
+                "channelId": "UC0ZV6M2THA81QT9hrVWJG3A",
+                "title": "Apex Legends: Revelry Launch Trailer",
+                "description": "To celebrate another anniversary of the Apex Games, Duardo Silva's throwing quite the party. But Mad Maggie never met a Syndicate event she didn't want to crash.\n\nhttp://x.ea.com/76084\n\nApex Legends is a free-to-play hero shooter game where legendary characters battle for glory, fame, and fortune on the fringes of the Frontier. Play for free now on PlayStation® 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch, and PC via Origin and Steam.\n\n#ApexLegendsRevelry #ApexRevelry #ApexLegends\n\nProduction Company: Electronic Arts, Respawn Entertainment & Psyop\nSound Design/Mix: Barking Owl\nAll other categories: Electronic Arts & Respawn Entertainment\n\nLearn more about Apex Legends: Revelry: http://x.ea.com/76084\n\nCheck out our YouTube channel: https://www.youtube.com/c/playapex.\nFollow us on Twitter: https://twitter.com/playapex.\nFollow us on Instagram: https://www.instagram.com/playapex/.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lpN3tJTz9kE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lpN3tJTz9kE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lpN3tJTz9kE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lpN3tJTz9kE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lpN3tJTz9kE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Apex Legends",
+                "tags": [
+                    "apex legends",
+                    "apex",
+                    "apex legends season 16",
+                    "apex legends revelry",
+                    "apex legends trailer",
+                    "apex trailer",
+                    "apex legends season 16 trailer",
+                    "apex season 16",
+                    "エーペックス",
+                    "apex トレーラー",
+                    "apex season 16 trailer",
+                    "apex legends revelry launch trailer",
+                    "revelry launch trailer",
+                    "revelry trailer",
+                    "apex revelry",
+                    "revelry apex legends",
+                    "new apex trailer",
+                    "respawn apex legends",
+                    "battle royale",
+                    "apex legends ps4",
+                    "apex legends xbox",
+                    "apex legends pc",
+                    "apex legends origin",
+                    "respawn entertainment"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Apex Legends: Revelry Launch Trailer",
+                    "description": "To celebrate another anniversary of the Apex Games, Duardo Silva's throwing quite the party. But Mad Maggie never met a Syndicate event she didn't want to crash.\n\nhttp://x.ea.com/76084\n\nApex Legends is a free-to-play hero shooter game where legendary characters battle for glory, fame, and fortune on the fringes of the Frontier. Play for free now on PlayStation® 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch, and PC via Origin and Steam.\n\n#ApexLegendsRevelry #ApexRevelry #ApexLegends\n\nProduction Company: Electronic Arts, Respawn Entertainment & Psyop\nSound Design/Mix: Barking Owl\nAll other categories: Electronic Arts & Respawn Entertainment\n\nLearn more about Apex Legends: Revelry: http://x.ea.com/76084\n\nCheck out our YouTube channel: https://www.youtube.com/c/playapex.\nFollow us on Twitter: https://twitter.com/playapex.\nFollow us on Instagram: https://www.instagram.com/playapex/."
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "wFK3KLIQ88hehEnmh8qr3AKHFv0",
+            "id": "F6dZxoob8CY",
+            "snippet": {
+                "publishedAt": "2023-02-06T11:00:12Z",
+                "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+                "title": "Hogwarts Legacy Review",
+                "description": "Hogwarts Legacy reviewed by Travis Northup on PlayStation 5, Xbox Series X, and PC.\nIn nearly every way, Hogwarts Legacy is the Harry Potter RPG I’ve always wanted to play. Its open-world adventure captures all the excitement and wonder of the Wizarding World with its memorable new characters, challenging and nuanced combat, and a wonderfully executed Hogwarts student fantasy that kept me glued to my controller for dozens of hours. It’s certainly weighed down by technical issues, a lackluster main story, and some poor enemy variety, but even those couldn’t come close to breaking its enchanting spell over me.\n\n#HogwartsLegacy #HogwartsLegacyReview",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/F6dZxoob8CY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/F6dZxoob8CY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/F6dZxoob8CY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/F6dZxoob8CY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/F6dZxoob8CY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "IGN",
+                "tags": [
+                    "Action",
+                    "Avalanche Software",
+                    "Harry Potter",
+                    "Hogwarts Legacy",
+                    "RPG",
+                    "Warner Bros. Games",
+                    "Wizarding World",
+                    "hogwarts legacy review",
+                    "new harry potter game",
+                    "harry potter game",
+                    "hogwarts legacy ign review",
+                    "hogwarts legacy",
+                    "hogwarts legacy gameplay",
+                    "ign",
+                    "harry potter"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Hogwarts Legacy Review",
+                    "description": "Hogwarts Legacy reviewed by Travis Northup on PlayStation 5, Xbox Series X, and PC.\nIn nearly every way, Hogwarts Legacy is the Harry Potter RPG I’ve always wanted to play. Its open-world adventure captures all the excitement and wonder of the Wizarding World with its memorable new characters, challenging and nuanced combat, and a wonderfully executed Hogwarts student fantasy that kept me glued to my controller for dozens of hours. It’s certainly weighed down by technical issues, a lackluster main story, and some poor enemy variety, but even those couldn’t come close to breaking its enchanting spell over me.\n\n#HogwartsLegacy #HogwartsLegacyReview"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "T-xLAAPZT9yPdCeXrrY-yBMrC24",
+            "id": "MNX1wV9UfL4",
+            "snippet": {
+                "publishedAt": "2023-02-06T17:40:15Z",
+                "channelId": "UClOf1XXinvZsy4wKPAkro2A",
+                "title": "Season 3 Trailer | Overwatch 2",
+                "description": "Overwatch 2 Season 3 arrives February 7! \n\nExperience an all-new Battle Pass with more ways to earn rewards, including legendary and mythic skins inspired by Asian mythology. \n\nBundle up as you make your way through Antarctic Peninsula, a New Control map.\n\nEarn in game credits as free rewards, just by playing.\n\nBattle through one-of-a-kind limited time modes and experience seasonal events. \n\nOverwatch 2 x One-Punch Man 👊\n\nOverwatch 2 is free to play for everyone on console & PC!\n\n©ONE, Yusuke Murata/SHUEISHA, Hero Association HQ\n\n_\nFollow #Overwatch2 for the latest news:\nInstagram: https://www.instagram.com/playoverwatch\nTikTok: https://www.tiktok.com/@overwatch\nTwitter: http://www.twitter.com/playoverwatch \nFacebook: http://www.facebook.com/playoverwatch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MNX1wV9UfL4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MNX1wV9UfL4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MNX1wV9UfL4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MNX1wV9UfL4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MNX1wV9UfL4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "PlayOverwatch",
+                "tags": [
+                    "Overwatch 2",
+                    "Overwatch"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Season 3 Trailer | Overwatch 2",
+                    "description": "Overwatch 2 Season 3 arrives February 7! \n\nExperience an all-new Battle Pass with more ways to earn rewards, including legendary and mythic skins inspired by Asian mythology. \n\nBundle up as you make your way through Antarctic Peninsula, a New Control map.\n\nEarn in game credits as free rewards, just by playing.\n\nBattle through one-of-a-kind limited time modes and experience seasonal events. \n\nOverwatch 2 x One-Punch Man 👊\n\nOverwatch 2 is free to play for everyone on console & PC!\n\n©ONE, Yusuke Murata/SHUEISHA, Hero Association HQ\n\n_\nFollow #Overwatch2 for the latest news:\nInstagram: https://www.instagram.com/playoverwatch\nTikTok: https://www.tiktok.com/@overwatch\nTwitter: http://www.twitter.com/playoverwatch \nFacebook: http://www.facebook.com/playoverwatch"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "2ePrGLhlVrM_l83WIj-pF5wxJgs",
+            "id": "UiIRlg4Xr5w",
+            "snippet": {
+                "publishedAt": "2023-02-05T07:01:46Z",
+                "channelId": "UCqFzWxSCi39LnW1JKFR3efg",
+                "title": "HBO Mario Kart Trailer - SNL",
+                "description": "In a video game turned series, a trailer follows a group of people as they try to help a princess get to Rainbow Road.\n\nSaturday Night Live. Stream now on Peacock: https://pck.tv/3uQxh4q\n\nSubscribe to SNL: https://goo.gl/tUsXwM\nStream Current Full Episodes: http://www.nbc.com/saturday-night-live\n\nWATCH PAST SNL SEASONS\nGoogle Play - http://bit.ly/SNLGooglePlay\niTunes - http://bit.ly/SNLiTunes\n\nSNL ON SOCIAL\nSNL Instagram: http://instagram.com/nbcsnl\nSNL Facebook: https://www.facebook.com/snl\nSNL Twitter: https://twitter.com/nbcsnl\nSNL TikTok: https://www.tiktok.com/@nbcsnl\n\nGET MORE NBC\nLike NBC: http://Facebook.com/NBC\nFollow NBC: http://Twitter.com/NBC\nNBC Tumblr: http://NBCtv.tumblr.com/\nYouTube: http://www.youtube.com/nbc\nNBC Instagram: http://instagram.com/nbc\n\n#SNL #PedroPascal #SNL48 #Coldplay",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UiIRlg4Xr5w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UiIRlg4Xr5w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UiIRlg4Xr5w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UiIRlg4Xr5w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UiIRlg4Xr5w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Saturday Night Live",
+                "tags": [
+                    "SNL02042023",
+                    "snl",
+                    "saturday night live",
+                    "snl 48",
+                    "saturday night live season 48",
+                    "pedro pascal",
+                    "snl host pedro pascal",
+                    "heidi gardner",
+                    "chloe fineman",
+                    "mikey day",
+                    "kenan thompson",
+                    "james austin johnson",
+                    "bowen yang",
+                    "marcello hernández",
+                    "super mario",
+                    "super mario kart",
+                    "the super mario bros movie",
+                    "super mario bros",
+                    "coldplay",
+                    "cold play",
+                    "the last of us",
+                    "the mandalorian",
+                    "narcos",
+                    "game of thrones",
+                    "wonder woman",
+                    "the scientist",
+                    "yellow",
+                    "adventure of a lifetime",
+                    "clocks",
+                    "kingsman",
+                    "pedro pascal snl"
+                ],
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "HBO Mario Kart Trailer - SNL",
+                    "description": "In a video game turned series, a trailer follows a group of people as they try to help a princess get to Rainbow Road.\n\nSaturday Night Live. Stream now on Peacock: https://pck.tv/3uQxh4q\n\nSubscribe to SNL: https://goo.gl/tUsXwM\nStream Current Full Episodes: http://www.nbc.com/saturday-night-live\n\nWATCH PAST SNL SEASONS\nGoogle Play - http://bit.ly/SNLGooglePlay\niTunes - http://bit.ly/SNLiTunes\n\nSNL ON SOCIAL\nSNL Instagram: http://instagram.com/nbcsnl\nSNL Facebook: https://www.facebook.com/snl\nSNL Twitter: https://twitter.com/nbcsnl\nSNL TikTok: https://www.tiktok.com/@nbcsnl\n\nGET MORE NBC\nLike NBC: http://Facebook.com/NBC\nFollow NBC: http://Twitter.com/NBC\nNBC Tumblr: http://NBCtv.tumblr.com/\nYouTube: http://www.youtube.com/nbc\nNBC Instagram: http://instagram.com/nbc\n\n#SNL #PedroPascal #SNL48 #Coldplay"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "b3pQHy3_-3UotIztLp05el6E38I",
+            "id": "iRM3RKC6tT0",
+            "snippet": {
+                "publishedAt": "2023-02-06T11:00:25Z",
+                "channelId": "UCK9_x1DImhU-eolIay5rb2Q",
+                "title": "Buy Hogwarts Legacy Review - \"Buy, Wait for Sale, Never touch?\"",
+                "description": "Hogwarts legacy is coming out for ps5, xbox and PC, a game by Avalanche and WB you take on the roll of a 5th-year student at Hogwarts learning about the Harry Potter-based wizarding world, and constantly trying to uncover what the secret to Hogwarts is, and why its legacy matters so much.\nBuy the game, use the ACG Amazon Affiliate ACG https://amzn.to/3cW7GQ0 \nBuy Hogwarts Legacy Review \"Buy, Wait for Sale, Never touch?\"\n\n🕶  Welcome to what I hope is the best video game review channel on youtube.\nSubscribe to ACG for video game reviews, where Karak pays his own money even if the developers given him a code for the game. Previews on new games, top gaming news, funny and informative shorts and much more. \nhttps://www.youtube.com/@ACGreviews\nhttps://opencritic.com/outlet/310/acg\n\n 🕶 Karak with ACG or angrycentaurgaming, covers new games, old games, previews, reviews, and opinions on the videogame industry and leading podcasts on new gaming subjects each week that you can get by joining this channel to get access to perks: Gaming discord.\n\n 🕶 If you want to help out the channel you can buying a game on Epic use the ACG creator code KARAK-ACG\n 🕶 Karak and ACG's  Gaming and News Webpage is locations at https://www.acgamer.net/ and all his social links can be found here https://linktr.ee/ACG_Karak\nFollow me on Twitter for reviews and info @jeremypenter\n-JOIN the ACG Reddit https://www.reddit.com/r/ACGVids/\n https://www.patreon.com/AngryCentaurGaming \n\nACG Reviews and Podcast can be found at the following links\n🎧Itunes https://podcasts.apple.com/us/podcast/acg-the-best-gaming-podcast/id966781846\n🎧ACG Reviews and Podcast on Spotify https://open.spotify.com/show/7ksaVxOmtaWDOYHvg4a4xK?si=8df0eae9bf6b4af7\n🎩ACG Merch Store https://acg.creator-spring.com/\n🎩ACG Amazon Affiliate https://amzn.to/3cW7GQ0\n\nCoverage includes ps4, PS5, XBox series X/s, Xbox one, pc, Switch, and digital storefronts like Steam, as well as companies like Microsoft, Sony and Nintendo.\nBuy, wait for a sale, rent, or never touch it. The Patented Karak review system to see if a game is worth a buy upon release or if I recommend waiting.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iRM3RKC6tT0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iRM3RKC6tT0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iRM3RKC6tT0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iRM3RKC6tT0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iRM3RKC6tT0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ACG",
+                "tags": [
+                    "acgreview",
+                    "angrycentaurgaming",
+                    "gameplay",
+                    "ACG",
+                    "gaming news",
+                    "acg reviews",
+                    "video games",
+                    "angry review",
+                    "acg impressions",
+                    "videogame reviews",
+                    "videogame review",
+                    "game review",
+                    "acg review",
+                    "games",
+                    "gamenews",
+                    "reaction",
+                    "ign",
+                    "steam deck",
+                    "react to",
+                    "comedy",
+                    "podcast",
+                    "Buy Hogwarts Legacy Review Buy Wait for Sale",
+                    "Never touch?",
+                    "hogwarts legacy review",
+                    "hogwarts legacy gameplay",
+                    "hogwarts legacy",
+                    "hogwarts legacy release date",
+                    "hogwarts legacy early access",
+                    "hogwarts legacy platforms",
+                    "review hogwarts legacy"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-US",
+                "localized": {
+                    "title": "Buy Hogwarts Legacy Review - \"Buy, Wait for Sale, Never touch?\"",
+                    "description": "Hogwarts legacy is coming out for ps5, xbox and PC, a game by Avalanche and WB you take on the roll of a 5th-year student at Hogwarts learning about the Harry Potter-based wizarding world, and constantly trying to uncover what the secret to Hogwarts is, and why its legacy matters so much.\nBuy the game, use the ACG Amazon Affiliate ACG https://amzn.to/3cW7GQ0 \nBuy Hogwarts Legacy Review \"Buy, Wait for Sale, Never touch?\"\n\n🕶  Welcome to what I hope is the best video game review channel on youtube.\nSubscribe to ACG for video game reviews, where Karak pays his own money even if the developers given him a code for the game. Previews on new games, top gaming news, funny and informative shorts and much more. \nhttps://www.youtube.com/@ACGreviews\nhttps://opencritic.com/outlet/310/acg\n\n 🕶 Karak with ACG or angrycentaurgaming, covers new games, old games, previews, reviews, and opinions on the videogame industry and leading podcasts on new gaming subjects each week that you can get by joining this channel to get access to perks: Gaming discord.\n\n 🕶 If you want to help out the channel you can buying a game on Epic use the ACG creator code KARAK-ACG\n 🕶 Karak and ACG's  Gaming and News Webpage is locations at https://www.acgamer.net/ and all his social links can be found here https://linktr.ee/ACG_Karak\nFollow me on Twitter for reviews and info @jeremypenter\n-JOIN the ACG Reddit https://www.reddit.com/r/ACGVids/\n https://www.patreon.com/AngryCentaurGaming \n\nACG Reviews and Podcast can be found at the following links\n🎧Itunes https://podcasts.apple.com/us/podcast/acg-the-best-gaming-podcast/id966781846\n🎧ACG Reviews and Podcast on Spotify https://open.spotify.com/show/7ksaVxOmtaWDOYHvg4a4xK?si=8df0eae9bf6b4af7\n🎩ACG Merch Store https://acg.creator-spring.com/\n🎩ACG Amazon Affiliate https://amzn.to/3cW7GQ0\n\nCoverage includes ps4, PS5, XBox series X/s, Xbox one, pc, Switch, and digital storefronts like Steam, as well as companies like Microsoft, Sony and Nintendo.\nBuy, wait for a sale, rent, or never touch it. The Patented Karak review system to see if a game is worth a buy upon release or if I recommend waiting."
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "eIbV9SXxQv_f9effK343mgl6O7c",
+            "id": "TF1NvCwTZqo",
+            "snippet": {
+                "publishedAt": "2023-02-06T18:00:09Z",
+                "channelId": "UCQH4V9PiY_eLo4Ihr1tWCwQ",
+                "title": "Overwatch 2  - EVERY HERO CHANGE for SEASON 3",
+                "description": "Find friends and teammates with GamerLink, the #1 LFG app available for FREE on iOS and Android!\nhttps://gamerlink.app/KarQ\n\nThis is the Overwatch 2 patch preview for SEASON 3 coverage by KARQ\nhttps://us.forums.blizzard.com/en/overwatch/t/overwatch-2-retail-patch-notes-february-7-2023/781229\n\nThey will *officially* post them when the season actually starts at 11am PST / 2pm EST on February 7, 2023.\n\n0:00 - Intro\n\n1:00 - Global Passive Change\n1:08 - Tank Passive Change\n\n1:38 - D.Va\n1:46 - Doomfist\n1:53 - Junker Queen\n2:09 - Orisa\n2:37 - Ramattra\n3:07 - Reinhardt\n4:21 - Roadhog\n4:36 - Sigma\n4:46 - Winston\n4:56 - Wrecking Ball\n5:49 - Zarya\n\n6:02 - Cassidy\n6:22 - Junkrat\n6:56 - Mei\n7:00 - Pharah\n7:04 - Reaper\n7:08 - Soldier:76 \n7:46 - Sombra\n8:00 - Symmetra\n8:06 - Torbjorn\n8:12 - Widowmaker\n\n8:18 - Ana\n8:24 - Brigitte\n9:00 - Lucio\n9:06 - Mercy\n10:45 - Moira\n10:49 - Zenyatta\n\n10:54 - SEASON 3 Map Pools\n\n11:43 - NEW Settings\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n🔴 Twitch: https://twitch.tv/KarQ \n🔔 KarQives (2nd Channel): https://youtube.com/@karqives\n👄 KarQlips (Clips Channel): https://www.youtube.com/@KarQlips\n📽️ TikTok: https://www.tiktok.com/@karqgames\n📸 Instagram: http://instagram.com/KarQGames\n🐦 Twitter: https://www.twitter.com/KarQGames\n💬 Discord: https://discord.gg/karq\n👕Merch: https://karqgames.com\n💼 Business Inquiries: karqgaming@gmail.com\n\n📸 Current Gear/Camera Setup\nCAN: https://www.amazon.ca/shop/karqgames\nUSA: https://www.amazon.com/shop/karqgames\nUK: https://www.amazon.co.uk/shop/karqgames\n\nAssistance:\n- KarQ\n- Kojinatu | https://twitch.tv/kojinatu\n- Urzu\n-  @Skiesti \n-  @Niandra \n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n♫ GetSix \nhttps://soundcloud.com/getsixofficial\n\n#overwatch2 #overwatch2news #overwatch2patch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TF1NvCwTZqo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TF1NvCwTZqo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TF1NvCwTZqo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TF1NvCwTZqo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TF1NvCwTZqo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "KarQ",
+                "tags": [
+                    "overwatch 2",
+                    "Overwatch 2 news",
+                    "overwatch 2 patch notes",
+                    "overwatch 2 season 3",
+                    "ow2 s3 patch",
+                    "overwatch 2 changes so far",
+                    "overwatch 2 season 3 changes",
+                    "overwatch 2 balance",
+                    "overwatch 2 map pools"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Overwatch 2  - EVERY HERO CHANGE for SEASON 3",
+                    "description": "Find friends and teammates with GamerLink, the #1 LFG app available for FREE on iOS and Android!\nhttps://gamerlink.app/KarQ\n\nThis is the Overwatch 2 patch preview for SEASON 3 coverage by KARQ\nhttps://us.forums.blizzard.com/en/overwatch/t/overwatch-2-retail-patch-notes-february-7-2023/781229\n\nThey will *officially* post them when the season actually starts at 11am PST / 2pm EST on February 7, 2023.\n\n0:00 - Intro\n\n1:00 - Global Passive Change\n1:08 - Tank Passive Change\n\n1:38 - D.Va\n1:46 - Doomfist\n1:53 - Junker Queen\n2:09 - Orisa\n2:37 - Ramattra\n3:07 - Reinhardt\n4:21 - Roadhog\n4:36 - Sigma\n4:46 - Winston\n4:56 - Wrecking Ball\n5:49 - Zarya\n\n6:02 - Cassidy\n6:22 - Junkrat\n6:56 - Mei\n7:00 - Pharah\n7:04 - Reaper\n7:08 - Soldier:76 \n7:46 - Sombra\n8:00 - Symmetra\n8:06 - Torbjorn\n8:12 - Widowmaker\n\n8:18 - Ana\n8:24 - Brigitte\n9:00 - Lucio\n9:06 - Mercy\n10:45 - Moira\n10:49 - Zenyatta\n\n10:54 - SEASON 3 Map Pools\n\n11:43 - NEW Settings\n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n🔴 Twitch: https://twitch.tv/KarQ \n🔔 KarQives (2nd Channel): https://youtube.com/@karqives\n👄 KarQlips (Clips Channel): https://www.youtube.com/@KarQlips\n📽️ TikTok: https://www.tiktok.com/@karqgames\n📸 Instagram: http://instagram.com/KarQGames\n🐦 Twitter: https://www.twitter.com/KarQGames\n💬 Discord: https://discord.gg/karq\n👕Merch: https://karqgames.com\n💼 Business Inquiries: karqgaming@gmail.com\n\n📸 Current Gear/Camera Setup\nCAN: https://www.amazon.ca/shop/karqgames\nUSA: https://www.amazon.com/shop/karqgames\nUK: https://www.amazon.co.uk/shop/karqgames\n\nAssistance:\n- KarQ\n- Kojinatu | https://twitch.tv/kojinatu\n- Urzu\n-  @Skiesti \n-  @Niandra \n\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n♫ GetSix \nhttps://soundcloud.com/getsixofficial\n\n#overwatch2 #overwatch2news #overwatch2patch"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "DcxOq2_v4i0JWKVRB4_7j7qI2aM",
+            "id": "DXnnucnZyek",
+            "snippet": {
+                "publishedAt": "2023-02-06T03:27:26Z",
+                "channelId": "UCq4isO8ZYOZfmvGJ-_1UdIA",
+                "title": "Beyoncé Breaks Record For Most GRAMMY Wins In History | 2023 GRAMMYs",
+                "description": "It's official: Beyoncé has made GRAMMY history. Her win for Best Dance/Electronic Album for 'RENAISSANCE' at the 2023 GRAMMYs put her GRAMMY total at 32, the most of all time.\n\nAbout the Recording Academy / GRAMMYs: \nRecording Academy is the world's leading society of musical professionals and is dedicated to celebrating, honoring, and sustaining music's past, present and future. \n\nConnect with the Recording Academy / GRAMMYs: \nWEBSITE: http://www.grammy.com\nFACEBOOK: http://grm.my/2gcTcMk \nTWITTER: http://grm.my/2gDUHUD  \nINSTAGRAM: http://grm.my/2gZGIvJ \n\nSubscribe NOW to the Recording Academy / GRAMMYs on YouTube: http://grm.my/1dTBF8H\n\n#GRAMMYs",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DXnnucnZyek/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DXnnucnZyek/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DXnnucnZyek/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DXnnucnZyek/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DXnnucnZyek/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Recording Academy / GRAMMYs",
+                "tags": [
+                    "grammy awards",
+                    "grammys",
+                    "grammy",
+                    "65th GRAMMYs",
+                    "65th GRAMMY Awards",
+                    "2023 GRAMMYs",
+                    "2023 GRAMMY Awards",
+                    "2023 GRAMMY",
+                    "album of the year",
+                    "song of the year",
+                    "best new artist",
+                    "record of the year",
+                    "beyonce",
+                    "Beyonce grammys",
+                    "Beyonce 2023 grammys",
+                    "best dance electronic music album grammys"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Beyoncé Breaks Record For Most GRAMMY Wins In History | 2023 GRAMMYs",
+                    "description": "It's official: Beyoncé has made GRAMMY history. Her win for Best Dance/Electronic Album for 'RENAISSANCE' at the 2023 GRAMMYs put her GRAMMY total at 32, the most of all time.\n\nAbout the Recording Academy / GRAMMYs: \nRecording Academy is the world's leading society of musical professionals and is dedicated to celebrating, honoring, and sustaining music's past, present and future. \n\nConnect with the Recording Academy / GRAMMYs: \nWEBSITE: http://www.grammy.com\nFACEBOOK: http://grm.my/2gcTcMk \nTWITTER: http://grm.my/2gDUHUD  \nINSTAGRAM: http://grm.my/2gZGIvJ \n\nSubscribe NOW to the Recording Academy / GRAMMYs on YouTube: http://grm.my/1dTBF8H\n\n#GRAMMYs"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "wgKu7C1FT1rGbLQ0wN4w9LHuu9s",
+            "id": "H4-4o86KAzo",
+            "snippet": {
+                "publishedAt": "2023-02-06T16:08:13Z",
+                "channelId": "UCLXzq85ijg2LwJWFrz4pkmw",
+                "title": "Nets trade Kyrie Irving to Mavericks for Dinwiddie, Finney-Smith & draft picks | NBA | UNDISPUTED",
+                "description": "After requesting a trade on Friday, Kyrie Irving is being traded to the Dallas Mavericks according to reports. The Brooklyn Nets will receive Dorian Finney-Smith, Spencer Dinwiddie, a first and two second-round picks for Kyrie who will now be teaming up with Luka Doncic in Dallas. Skip Bayless and Shannon Sharpe react to the latest Kyrie Irving news.\n\n#Undisputed #NFL #KyrieIrving\n\nDownload the free-to-play FOX Bet Super 6 app: https://foxs.pt/3z96p0j\n\nSUBSCRIBE to get the latest UNDISPUTED content: http://foxs.pt/SubscribeUNDISPUTED\nListen to UNDISPUTED on Spotify: https://foxs.pt/UNDISPUTEDSpotify\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n► Watch the latest content from UNDISPUTED: https://foxs.pt/TheLatestOnUNDISPUTED\n\n▶ First Things First's YouTube channel: http://foxs.pt/SubscribeFIRSTTHINGSFIRST\n▶ The Herd with Colin Cowherd’s YouTube channel: http://foxs.pt/SubscribeTHEHERD\n► SPEAK's YouTube channel: http://sprtspod.fox/SUBSCRIBEtoSpeak\n► FOX Bet Live’s YouTube channel: https://foxs.pt/SubscribeFOXBETLIVE\n► Club Shay Shay’s YouTube channel: http://foxs.pt/SubscribeCLUBSHAYSHAY\n► The Skip Bayless Show YouTube channel: http://sprtspod.fox/SUBSCRIBESkipShow\n► What's Wright? with Nick Wright YouTube channel: http://sprtspod.fox/whatswright/youtube\n▶ The Carton Show’s YouTube channel: http://sprtspod.fox/SubscribeCartonShow\n\nSee more from UNDISPUTED: http://foxs.pt/UNDISPUTEDFoxSports\nLike UNDISPUTED on Facebook: http://foxs.pt/UNDISPUTEDFacebook\nFollow UNDISPUTED on Twitter: http://foxs.pt/UNDISPUTEDTwitter\nFollow UNDISPUTED on Instagram: http://foxs.pt/UNDISPUTEDInstagram\nFollow UNDISPUTED on TikTok: https://www.tiktok.com/@undisputedonfs1?lang=en\n\nFollow Skip Bayless on Twitter: http://foxs.pt/SkipBaylessTwitter\nFollow Shannon Sharpe on Twitter: http://foxs.pt/ShannonSharpeTwitter\n\nAbout Skip and Shannon: UNDISPUTED:\nUNDISPUTED is a daily two-and-a-half hour sports debate show starring Skip Bayless and Shannon Sharpe. Every day, Skip and Shannon will give their unfiltered, incisive, passionate opinions on the biggest sports topics of the day.\n\nNets trade Kyrie Irving to Mavericks for Dinwiddie, Finney-Smith & draft picks | NBA | UNDISPUTED\nhttps://youtu.be/H4-4o86KAzo\n\nSkip and Shannon: UNDISPUTED\nhttps://www.youtube.com/c/UndisputedOnFS1",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H4-4o86KAzo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H4-4o86KAzo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H4-4o86KAzo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/H4-4o86KAzo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/H4-4o86KAzo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Skip and Shannon: UNDISPUTED",
+                "tags": [
+                    "NBA",
+                    "Basketball",
+                    "UNDISPUTED",
+                    "Brooklyn Nets",
+                    "Nets",
+                    "Kyrie Irving",
+                    "Kyrie",
+                    "Irving",
+                    "Brookyn Nets",
+                    "Dallas Mavericks",
+                    "Mavs",
+                    "Mavericks",
+                    "Luka Doncic",
+                    "Luka",
+                    "Los Angeles Lakers",
+                    "Nets owner",
+                    "Joe Tsai",
+                    "LeBron James",
+                    "Kevin Durant",
+                    "show",
+                    "fs1",
+                    "fox sports",
+                    "fox sports 1",
+                    "sports",
+                    "sports news",
+                    "NBA on FOX",
+                    "NBA on FS1",
+                    "2022 NBA Offseason",
+                    "2022-2023 NBA Seasonn",
+                    "Eastern Conference",
+                    "Western Conference",
+                    "The Association"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Nets trade Kyrie Irving to Mavericks for Dinwiddie, Finney-Smith & draft picks | NBA | UNDISPUTED",
+                    "description": "After requesting a trade on Friday, Kyrie Irving is being traded to the Dallas Mavericks according to reports. The Brooklyn Nets will receive Dorian Finney-Smith, Spencer Dinwiddie, a first and two second-round picks for Kyrie who will now be teaming up with Luka Doncic in Dallas. Skip Bayless and Shannon Sharpe react to the latest Kyrie Irving news.\n\n#Undisputed #NFL #KyrieIrving\n\nDownload the free-to-play FOX Bet Super 6 app: https://foxs.pt/3z96p0j\n\nSUBSCRIBE to get the latest UNDISPUTED content: http://foxs.pt/SubscribeUNDISPUTED\nListen to UNDISPUTED on Spotify: https://foxs.pt/UNDISPUTEDSpotify\nThe all-new FOX Sports App, built for the modern sports fan: https://tinyurl.com/y4uouolb\n\n► Watch the latest content from UNDISPUTED: https://foxs.pt/TheLatestOnUNDISPUTED\n\n▶ First Things First's YouTube channel: http://foxs.pt/SubscribeFIRSTTHINGSFIRST\n▶ The Herd with Colin Cowherd’s YouTube channel: http://foxs.pt/SubscribeTHEHERD\n► SPEAK's YouTube channel: http://sprtspod.fox/SUBSCRIBEtoSpeak\n► FOX Bet Live’s YouTube channel: https://foxs.pt/SubscribeFOXBETLIVE\n► Club Shay Shay’s YouTube channel: http://foxs.pt/SubscribeCLUBSHAYSHAY\n► The Skip Bayless Show YouTube channel: http://sprtspod.fox/SUBSCRIBESkipShow\n► What's Wright? with Nick Wright YouTube channel: http://sprtspod.fox/whatswright/youtube\n▶ The Carton Show’s YouTube channel: http://sprtspod.fox/SubscribeCartonShow\n\nSee more from UNDISPUTED: http://foxs.pt/UNDISPUTEDFoxSports\nLike UNDISPUTED on Facebook: http://foxs.pt/UNDISPUTEDFacebook\nFollow UNDISPUTED on Twitter: http://foxs.pt/UNDISPUTEDTwitter\nFollow UNDISPUTED on Instagram: http://foxs.pt/UNDISPUTEDInstagram\nFollow UNDISPUTED on TikTok: https://www.tiktok.com/@undisputedonfs1?lang=en\n\nFollow Skip Bayless on Twitter: http://foxs.pt/SkipBaylessTwitter\nFollow Shannon Sharpe on Twitter: http://foxs.pt/ShannonSharpeTwitter\n\nAbout Skip and Shannon: UNDISPUTED:\nUNDISPUTED is a daily two-and-a-half hour sports debate show starring Skip Bayless and Shannon Sharpe. Every day, Skip and Shannon will give their unfiltered, incisive, passionate opinions on the biggest sports topics of the day.\n\nNets trade Kyrie Irving to Mavericks for Dinwiddie, Finney-Smith & draft picks | NBA | UNDISPUTED\nhttps://youtu.be/H4-4o86KAzo\n\nSkip and Shannon: UNDISPUTED\nhttps://www.youtube.com/c/UndisputedOnFS1"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "kiuG7BjFsPoyu0DtPwqBRzN7xyg",
+            "id": "Dbo1B9-0Q3Q",
+            "snippet": {
+                "publishedAt": "2023-02-06T04:57:12Z",
+                "channelId": "UCq4isO8ZYOZfmvGJ-_1UdIA",
+                "title": "HARRY STYLES Wins Album Of The Year For ‘HARRY'S HOUSE' | 2023 GRAMMYs Acceptance Speech",
+                "description": "Watch HARRY STYLES's acceptance speech for Album Of The Year for ‘HARRY'S HOUSE’ at the 2023 GRAMMYs.\n\nAbout the Recording Academy / GRAMMYs: \nRecording Academy is the world's leading society of musical professionals and is dedicated to celebrating, honoring, and sustaining music's past, present and future. \n\nConnect with the Recording Academy / GRAMMYs: \nWEBSITE: http://www.grammy.com\nFACEBOOK: http://grm.my/2gcTcMk \nTWITTER: http://grm.my/2gDUHUD  \nINSTAGRAM: http://grm.my/2gZGIvJ \n\nSubscribe NOW to the Recording Academy / GRAMMYs on YouTube: http://grm.my/1dTBF8H\n\n#GRAMMYs #harrystyles #harryshouse #grammys2023 #albumoftheyear",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Dbo1B9-0Q3Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Dbo1B9-0Q3Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Dbo1B9-0Q3Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Dbo1B9-0Q3Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Dbo1B9-0Q3Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Recording Academy / GRAMMYs",
+                "tags": [
+                    "grammy awards",
+                    "grammys",
+                    "grammy",
+                    "65th GRAMMYs",
+                    "65th GRAMMY Awards",
+                    "2023 GRAMMYs",
+                    "2023 GRAMMY Awards",
+                    "2023 GRAMMY",
+                    "album of the year",
+                    "song of the year",
+                    "best new artist",
+                    "record of the year",
+                    "harry styles",
+                    "harry's house album",
+                    "harry style's harry's house",
+                    "harry styles grammys",
+                    "album of the year 2023",
+                    "harry styles album of the year",
+                    "harry styles grammy win",
+                    "harry styles grammy speech"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "HARRY STYLES Wins Album Of The Year For ‘HARRY'S HOUSE' | 2023 GRAMMYs Acceptance Speech",
+                    "description": "Watch HARRY STYLES's acceptance speech for Album Of The Year for ‘HARRY'S HOUSE’ at the 2023 GRAMMYs.\n\nAbout the Recording Academy / GRAMMYs: \nRecording Academy is the world's leading society of musical professionals and is dedicated to celebrating, honoring, and sustaining music's past, present and future. \n\nConnect with the Recording Academy / GRAMMYs: \nWEBSITE: http://www.grammy.com\nFACEBOOK: http://grm.my/2gcTcMk \nTWITTER: http://grm.my/2gDUHUD  \nINSTAGRAM: http://grm.my/2gZGIvJ \n\nSubscribe NOW to the Recording Academy / GRAMMYs on YouTube: http://grm.my/1dTBF8H\n\n#GRAMMYs #harrystyles #harryshouse #grammys2023 #albumoftheyear"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "hToEVNq2ClREatO8Pw6-QQ8IeSU",
+            "id": "CdiZABe2eC0",
+            "snippet": {
+                "publishedAt": "2023-02-06T03:11:06Z",
+                "channelId": "UC4G10tk3AHFuyMIuD3rHOBA",
+                "title": "How LeBron was when he heard Kyrie went to the Mavs",
+                "description": "~RDC Social Media ~\n\n@RDCWorld1\nMark Phillips - @SupremeDreams_1\nAffiong Harris - @Affiong\nDesmond Johnson - @l0v3andPeac3\nLeland Manigo - @23_Is_Leland\nDylan Patel - @DylanPatel4_\nBenjamin Skinner - @Ive_Ben_Jammin\nJohnathan Newton - @PlayThatJohn\n\nMERCH\nhttps://rdcworld1.com/shop\n\nGAMING CHANNEL\nhttps://www.youtube.com/channel/UCW0uwJNcMTiOFXXgyS2no4g\n\nTWITCH CHANNEL\nhttps://www.twitch.tv/rdcgaming\n\nDREAM CON INFO!\nhttps://www.dreamconvention.com\n\nDISCORD\nhttps://discord.gg/rdcworld1\n\nSOUNDCLOUD\nhttps://soundcloud.com/rdcworld",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CdiZABe2eC0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CdiZABe2eC0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CdiZABe2eC0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CdiZABe2eC0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CdiZABe2eC0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "RDCworld1",
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "How LeBron was when he heard Kyrie went to the Mavs",
+                    "description": "~RDC Social Media ~\n\n@RDCWorld1\nMark Phillips - @SupremeDreams_1\nAffiong Harris - @Affiong\nDesmond Johnson - @l0v3andPeac3\nLeland Manigo - @23_Is_Leland\nDylan Patel - @DylanPatel4_\nBenjamin Skinner - @Ive_Ben_Jammin\nJohnathan Newton - @PlayThatJohn\n\nMERCH\nhttps://rdcworld1.com/shop\n\nGAMING CHANNEL\nhttps://www.youtube.com/channel/UCW0uwJNcMTiOFXXgyS2no4g\n\nTWITCH CHANNEL\nhttps://www.twitch.tv/rdcgaming\n\nDREAM CON INFO!\nhttps://www.dreamconvention.com\n\nDISCORD\nhttps://discord.gg/rdcworld1\n\nSOUNDCLOUD\nhttps://soundcloud.com/rdcworld"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "GBnIqzo4v_X3Dj_fISDlSXceXdM",
+            "id": "iHy--yxa5aU",
+            "snippet": {
+                "publishedAt": "2023-02-05T00:26:10Z",
+                "channelId": "UCo4WuB8ozP-Qvx2FQLi5pIQ",
+                "title": "THIS PROPOSAL IS TRULY UNFORGETTABLE!!! (SUPER EMOTIONAL)",
+                "description": "CAN'T BELIEVE IT GUYS!! SOON TO BE MR. &. MRS. GnB!!\n\nGnB On Top Of The Wrold Merch is OUT NOW!! 🌎❤️ - https://www.gnbmerch.com/\n\nHope you guys enjoyed the video! ❤️ Comment down below if you guys are G or B Team!\nAlso Subscribe if you're new! Give this video a big thumbs up and hit the bell 🔔 icon so you get notified every time we upload. \n\n💼 For any business inquires please email us here! - Offical.GnB@gmail.com 📩\n\nFollow us on all social media down below! \nGnB TikTok - https://www.tiktok.com/@gnb.official?lang=en&is_copy_url=1&is_from_webapp=v1\n\n‼️Britney's Socials‼️\nInstagram - https://instagram.com/britneyyy.official?igshid=YmMyMTA2M2Y=\nB’s Snap 👻 - https://t.snapchat.com/rdA2XNTY\nYouTube - https://www.youtube.com/channel/UCteVJto0-ppFYDVsvQ_B3Gg\nBritney's Tiktok - https://www.tiktok.com/@britneyy.official?lang=en\n\n‼️Garik's Socials‼️\nInstagram - https://www.instagram.com/garik2official/?hl=en\nG’s Car IG 🏎️💨- https://instagram.com/gzkittty?utm_medium=copy_link\nG’s Snap 👻 - https://t.snapchat.com/RGFCo8g0\n\n👨‍🍳🍖 Garik's BBQ Location - 16045 Victory Blvd Van Nuys CA 91406\n \nBIG THANKS TO ⬇️‼️\n\nThe Ice Brothers 💍 - https://instagram.com/theicebrothers?igshid=NDk5N2NlZjQ=\n\nEngagement Event Planner - https://instagram.com/nadia_kandy_event_planner_?igshid=NDk5N2NlZjQ=\n\nYouTube Editor - https://instagram.com/matiasyturrizaga?igshid=NDk5N2NlZjQ=\n\nBritney’s Makeup Artist - https://instagram.com/champagneheidybeauty_?igshid=NDk5N2NlZjQ=\n\nRayan Aka KASH - https://instagram.com/rayan_askari_?igshid=NDk5N2NlZjQ=",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iHy--yxa5aU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iHy--yxa5aU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iHy--yxa5aU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iHy--yxa5aU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iHy--yxa5aU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "GnB Official ",
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "THIS PROPOSAL IS TRULY UNFORGETTABLE!!! (SUPER EMOTIONAL)",
+                    "description": "CAN'T BELIEVE IT GUYS!! SOON TO BE MR. &. MRS. GnB!!\n\nGnB On Top Of The Wrold Merch is OUT NOW!! 🌎❤️ - https://www.gnbmerch.com/\n\nHope you guys enjoyed the video! ❤️ Comment down below if you guys are G or B Team!\nAlso Subscribe if you're new! Give this video a big thumbs up and hit the bell 🔔 icon so you get notified every time we upload. \n\n💼 For any business inquires please email us here! - Offical.GnB@gmail.com 📩\n\nFollow us on all social media down below! \nGnB TikTok - https://www.tiktok.com/@gnb.official?lang=en&is_copy_url=1&is_from_webapp=v1\n\n‼️Britney's Socials‼️\nInstagram - https://instagram.com/britneyyy.official?igshid=YmMyMTA2M2Y=\nB’s Snap 👻 - https://t.snapchat.com/rdA2XNTY\nYouTube - https://www.youtube.com/channel/UCteVJto0-ppFYDVsvQ_B3Gg\nBritney's Tiktok - https://www.tiktok.com/@britneyy.official?lang=en\n\n‼️Garik's Socials‼️\nInstagram - https://www.instagram.com/garik2official/?hl=en\nG’s Car IG 🏎️💨- https://instagram.com/gzkittty?utm_medium=copy_link\nG’s Snap 👻 - https://t.snapchat.com/RGFCo8g0\n\n👨‍🍳🍖 Garik's BBQ Location - 16045 Victory Blvd Van Nuys CA 91406\n \nBIG THANKS TO ⬇️‼️\n\nThe Ice Brothers 💍 - https://instagram.com/theicebrothers?igshid=NDk5N2NlZjQ=\n\nEngagement Event Planner - https://instagram.com/nadia_kandy_event_planner_?igshid=NDk5N2NlZjQ=\n\nYouTube Editor - https://instagram.com/matiasyturrizaga?igshid=NDk5N2NlZjQ=\n\nBritney’s Makeup Artist - https://instagram.com/champagneheidybeauty_?igshid=NDk5N2NlZjQ=\n\nRayan Aka KASH - https://instagram.com/rayan_askari_?igshid=NDk5N2NlZjQ="
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "aSmDSe2Rc36hmXV_oLOTYkWvmXw",
+            "id": "Nh5i5obZ8OY",
+            "snippet": {
+                "publishedAt": "2023-02-06T15:10:53Z",
+                "channelId": "UC4QZ_LsYcvcq7qOsOhpAX4A",
+                "title": "Google Panics Over ChatGPT [The AI Wars Have Begun]",
+                "description": "Google's newly announced BARD AI system is mentioned at 12:25\nIn this episode we see why Google has called a code red because of ChatGPT but why? Why is ChatGPT such a threat? And what are Google doing about it? In this episode we find out.\n\nAnimations by: \n\nhttps://www.youtube.com/@ThenWhatHappens \n\nColdFusion Podcast: \n\nhttps://www.youtube.com/@ThroughTheWeb \n\nColdFusion Music: \n\nhttps://www.youtube.com/@burnwatermusic7421 \nhttp://burnwater.bandcamp.com   \n\nLast Track: \n\nhttps://youtu.be/dBy8KQH4rpU\n\nPrevious AI video:\n\nhttps://youtu.be/0uQqMxXoNVs\n\nGet my book: \n\nhttp://bit.ly/NewThinkingbook \n\nColdFusion Socials: \n\nhttps://discord.gg/coldfusion\nhttps://facebook.com/ColdFusionTV \nhttps://twitter.com/ColdFusion_TV \nhttps://instagram.com/coldfusiontv\n\nProducer: Dagogo Altraide \nWriter: Meehan Kathan and Dagogo Altraide \nEditor: Tanzim Uddin and Dagogo Altraide",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Nh5i5obZ8OY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Nh5i5obZ8OY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Nh5i5obZ8OY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Nh5i5obZ8OY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Nh5i5obZ8OY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "ColdFusion",
+                "tags": [
+                    "Coldfusion",
+                    "TV",
+                    "Dagogo",
+                    "Altraide",
+                    "Technology",
+                    "Apple",
+                    "Google",
+                    "Samsung",
+                    "Facebook",
+                    "Tesla"
+                ],
+                "categoryId": "28",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Google Panics Over ChatGPT [The AI Wars Have Begun]",
+                    "description": "Google's newly announced BARD AI system is mentioned at 12:25\nIn this episode we see why Google has called a code red because of ChatGPT but why? Why is ChatGPT such a threat? And what are Google doing about it? In this episode we find out.\n\nAnimations by: \n\nhttps://www.youtube.com/@ThenWhatHappens \n\nColdFusion Podcast: \n\nhttps://www.youtube.com/@ThroughTheWeb \n\nColdFusion Music: \n\nhttps://www.youtube.com/@burnwatermusic7421 \nhttp://burnwater.bandcamp.com   \n\nLast Track: \n\nhttps://youtu.be/dBy8KQH4rpU\n\nPrevious AI video:\n\nhttps://youtu.be/0uQqMxXoNVs\n\nGet my book: \n\nhttp://bit.ly/NewThinkingbook \n\nColdFusion Socials: \n\nhttps://discord.gg/coldfusion\nhttps://facebook.com/ColdFusionTV \nhttps://twitter.com/ColdFusion_TV \nhttps://instagram.com/coldfusiontv\n\nProducer: Dagogo Altraide \nWriter: Meehan Kathan and Dagogo Altraide \nEditor: Tanzim Uddin and Dagogo Altraide"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "HN6tIbyVixyto6iJ7QXTfdnro70",
+            "id": "1yraW3e8gRk",
+            "snippet": {
+                "publishedAt": "2023-02-05T11:00:01Z",
+                "channelId": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+                "title": "We're having a baby!",
+                "description": "🧎#Subscribe🧎\n\nStock Up On ➡️🥤Gfuel (affiliate): https://gfuel.ly/pewdiepie-collection\n#Code #Pewdiepie\n\n👘 New Pre-Order for Tsuki: https://bit.ly/3xrWsgY\n\n📱Customized Devices: https://rhinoshield.io/pewdiepie\n\n⛰️NordVPN DOWNLOAD (affiliate link)⛰️\nGo to https://NordVPN.com/pewdiepie and use code PEWDIEPIE to get a 2-year plan plus 1 additional month with a huge discount. It’s risk free with Nord’s 30 day money-back guarantee!\n\n⚙️My Setup (affiliate links)⚙️\n🪑 Chair: https://bit.ly/3r51IUS\n💻 Browser: https://operagx.gg/Pewds\n⌨️ 🖱️ Keyboard & Mouse: https://ghostkeyboards.com/pages/pewd...\n\n🕹️ Pewdiepie's Pixelings\niOS: https://buff.ly/2pNG0aT\nAndroid: https://buff.ly/34C68nZ\n\n🕹️Pewdiepie’s Tuber Simulator\niOS: https://apps.apple.com/us/app/pewdiep...\nAndroid: https://play.google.com/store/apps/de...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1yraW3e8gRk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1yraW3e8gRk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1yraW3e8gRk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1yraW3e8gRk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1yraW3e8gRk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "PewDiePie",
+                "tags": [
+                    "pewdiepie",
+                    "pewds",
+                    "pewdie"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-US",
+                "localized": {
+                    "title": "We're having a baby!",
+                    "description": "🧎#Subscribe🧎\n\nStock Up On ➡️🥤Gfuel (affiliate): https://gfuel.ly/pewdiepie-collection\n#Code #Pewdiepie\n\n👘 New Pre-Order for Tsuki: https://bit.ly/3xrWsgY\n\n📱Customized Devices: https://rhinoshield.io/pewdiepie\n\n⛰️NordVPN DOWNLOAD (affiliate link)⛰️\nGo to https://NordVPN.com/pewdiepie and use code PEWDIEPIE to get a 2-year plan plus 1 additional month with a huge discount. It’s risk free with Nord’s 30 day money-back guarantee!\n\n⚙️My Setup (affiliate links)⚙️\n🪑 Chair: https://bit.ly/3r51IUS\n💻 Browser: https://operagx.gg/Pewds\n⌨️ 🖱️ Keyboard & Mouse: https://ghostkeyboards.com/pages/pewd...\n\n🕹️ Pewdiepie's Pixelings\niOS: https://buff.ly/2pNG0aT\nAndroid: https://buff.ly/34C68nZ\n\n🕹️Pewdiepie’s Tuber Simulator\niOS: https://apps.apple.com/us/app/pewdiep...\nAndroid: https://play.google.com/store/apps/de..."
+                },
+                "defaultAudioLanguage": "en-GB"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Q-7hq9l7-vbgjDxaTXH5bYU9a14",
+            "id": "DzroatCBH1o",
+            "snippet": {
+                "publishedAt": "2023-02-06T02:28:24Z",
+                "channelId": "UClzCn8DxRSCuMFv_WfzkcrQ",
+                "title": "THE 65TH ANNUAL GRAMMY AWARDS | Trevor Noah",
+                "description": "Host, Trevor Noah kicks off the THE 65TH ANNUAL GRAMMY AWARDS. Stream Music's Biggest Night now on CBS and Paramount+.\n\nFollow CBS: \nFollow CBS on Facebook HERE: https://www.facebook.com/CBS\nFollow CBS on Twitter HERE: https://twitter.com/cbs\nFollow CBS on Instagram HERE: https://www.instagram.com/cbstv/\nFollow CBS on TikTok HERE: https://www.tiktok.com/@cbs\n\n#CBS #Grammys #TrevorNoah",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DzroatCBH1o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DzroatCBH1o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DzroatCBH1o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DzroatCBH1o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DzroatCBH1o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CBS",
+                "tags": [
+                    "grammy",
+                    "grammys",
+                    "grammy awards",
+                    "grammy award",
+                    "music",
+                    "the grammys",
+                    "Tyler Oakley",
+                    "grammy winners",
+                    "music videos",
+                    "music clips",
+                    "music video",
+                    "top songs",
+                    "pop music",
+                    "top music",
+                    "all music",
+                    "music search",
+                    "bands",
+                    "band",
+                    "singers",
+                    "musician",
+                    "music news",
+                    "grammies",
+                    "grammy award winners",
+                    "grammys winners",
+                    "red carpet",
+                    "fashion",
+                    "carpet",
+                    "red dresses",
+                    "red carpet dresses”",
+                    "celebrity dresses",
+                    "grammy red carpet",
+                    "dress",
+                    "dresses",
+                    "celebrity",
+                    "CBS",
+                    "news"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "THE 65TH ANNUAL GRAMMY AWARDS | Trevor Noah",
+                    "description": "Host, Trevor Noah kicks off the THE 65TH ANNUAL GRAMMY AWARDS. Stream Music's Biggest Night now on CBS and Paramount+.\n\nFollow CBS: \nFollow CBS on Facebook HERE: https://www.facebook.com/CBS\nFollow CBS on Twitter HERE: https://twitter.com/cbs\nFollow CBS on Instagram HERE: https://www.instagram.com/cbstv/\nFollow CBS on TikTok HERE: https://www.tiktok.com/@cbs\n\n#CBS #Grammys #TrevorNoah"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "iQ-eghrl8tqqCftmzg5UrjduO3o",
+            "id": "yfKJQMAFbbc",
+            "snippet": {
+                "publishedAt": "2023-02-06T12:18:55Z",
+                "channelId": "UCNye-wNBqNL5ZzHSJj3l8Bg",
+                "title": "New earthquake at least 7.5 magnitude reported in southeast Turkey",
+                "description": "A new earthquake of at least magnitude 7.5 has been reported in southeast Turkey by Turkey’s AFAD emergency authority and the United States Geological Service (USGS).\r\nTurkish authorities measured the magnitude at 7.6, while the USGS measured it at 7.5, reporting it hit at 1:24pm (10:24 GMT) 4km (2.5 miles) south-southeast of the town of Ekinozu in Kahramanmaras, where the magnitude 7.8 earthquake hit hours earlier.\r\nLive local media footage showed a building collapsing in the town of Malatya during the latest quake.\r\nAt least 912 deaths were reported in Turkey, while 560 people died in Syria.\r\nDozens of countries have pledge to aid in search and rescue operations.\r\n\r\nWe are joined by our reporters Sinem Koseoglu and Resul Serdar from Istanbul and Zeina Khodr from Beirut for the latest updates.\r\n\r\nSubscribe to our channel: http://bit.ly/AJSubscribe\r\nFollow us on Twitter https://twitter.com/AJEnglish\r\nFind us on Facebook https://www.facebook.com/aljazeera\r\nCheck our website:  http://www.aljazeera.com/\r\nCheck out our Instagram page: https://www.instagram.com/aljazeeraenglish/\r\n\r\n#Turkiye #Turkey #TurkeyEarthquake #TurkiyeEarthquake #Syria #SyriaEarthquake #EastMediterranean #EastMediterraneanEarthquake #Earthquake #USGS #PrayForTurkey #PrayForSyria #Kahramanmaras",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yfKJQMAFbbc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yfKJQMAFbbc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yfKJQMAFbbc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yfKJQMAFbbc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/yfKJQMAFbbc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Al Jazeera English",
+                "tags": [
+                    "Al Jazeera",
+                    "Al Jazeera English",
+                    "Diyarbakir",
+                    "East Mediterranean Earthquake",
+                    "Environment",
+                    "Erdogan",
+                    "Kahramanmaras",
+                    "Middle East",
+                    "Syria earthquake",
+                    "Turkey",
+                    "Turkey earthquake",
+                    "Turkey quake",
+                    "Turkiye",
+                    "Turkiye earthquake",
+                    "aljazeera",
+                    "aljazeera English",
+                    "aljazeera live",
+                    "aljazeera news",
+                    "gazientep",
+                    "natural disasters",
+                    "turkey latest news",
+                    "turkey tremor"
+                ],
+                "categoryId": "25",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "New earthquake at least 7.5 magnitude reported in southeast Turkey",
+                    "description": "A new earthquake of at least magnitude 7.5 has been reported in southeast Turkey by Turkey’s AFAD emergency authority and the United States Geological Service (USGS).\r\nTurkish authorities measured the magnitude at 7.6, while the USGS measured it at 7.5, reporting it hit at 1:24pm (10:24 GMT) 4km (2.5 miles) south-southeast of the town of Ekinozu in Kahramanmaras, where the magnitude 7.8 earthquake hit hours earlier.\r\nLive local media footage showed a building collapsing in the town of Malatya during the latest quake.\r\nAt least 912 deaths were reported in Turkey, while 560 people died in Syria.\r\nDozens of countries have pledge to aid in search and rescue operations.\r\n\r\nWe are joined by our reporters Sinem Koseoglu and Resul Serdar from Istanbul and Zeina Khodr from Beirut for the latest updates.\r\n\r\nSubscribe to our channel: http://bit.ly/AJSubscribe\r\nFollow us on Twitter https://twitter.com/AJEnglish\r\nFind us on Facebook https://www.facebook.com/aljazeera\r\nCheck our website:  http://www.aljazeera.com/\r\nCheck out our Instagram page: https://www.instagram.com/aljazeeraenglish/\r\n\r\n#Turkiye #Turkey #TurkeyEarthquake #TurkiyeEarthquake #Syria #SyriaEarthquake #EastMediterranean #EastMediterraneanEarthquake #Earthquake #USGS #PrayForTurkey #PrayForSyria #Kahramanmaras"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "KHOu_lq3bJfmDEmnkTV91-vFz7s",
+            "id": "SqYxSSU8-YI",
+            "snippet": {
+                "publishedAt": "2023-02-06T18:00:20Z",
+                "channelId": "UCcLYOTz3ct6_lk9iLToxxAw",
+                "title": "REBUILDING A WRECKED PORSCHE 992 GT3 | PT1",
+                "description": "Check if your car was damaged with Car Vertical - 10% off here 👉 https://www.carvertical.com/gb/landing/britain?a=Matarmstrong&b=1e4c9523&voucher=Mat\n\nI bought Adam Lz's old Porsche 992 GT3 but the car is in Florida (4000miles away from home, so im using Tavarish's unit and tools to rebuild it whilst im over here. With the Porsche being a 2022 model parts are difficult to get and i am on a short time scale & now i have just found more damage that i originally thought.\n\nThanks -  https://www.e3customs.com/ - https://www.instagram.com/e3customs/?hl=en\n\n⬇️ FOR MORE CONTENT CHECK OUT MKY SECOND CHANNEL ⬇️\nhttps://www.youtube.com/@matarmstrongmk2387 \n\n⬇️ CHECK OUT TAVARISH'S CHANNEL HERE ⬇️\nhttps://www.youtube.com/@tavarish \n\n⬇️ ALL MA MERCHANDISE ⬇️\nhttps://matarmstrong.co.uk/\n\n⬇️ Follow Me Here Aswell ⬇️\nhttps://facebook.com/matarmstrongbmx\nhttps://instagram.com/matarmstrongbmx",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SqYxSSU8-YI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SqYxSSU8-YI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SqYxSSU8-YI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SqYxSSU8-YI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/SqYxSSU8-YI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Mat Armstrong",
+                "tags": [
+                    "porsche gt3",
+                    "mat armstrong",
+                    "matt armstrong",
+                    "porsche 911",
+                    "rebuilding a car",
+                    "salvage auction",
+                    "911 gt3",
+                    "rebuilding a wrecked porsche",
+                    "porsche 911 build",
+                    "copart rebuild",
+                    "rebuilding a wrecked car",
+                    "adam lz",
+                    "tavarish",
+                    "rebuilding a porsche",
+                    "restoring",
+                    "992 gt3",
+                    "crashed",
+                    "florida",
+                    "adam lz porsche crash",
+                    "adam lz gt3",
+                    "adam lz porsche"
+                ],
+                "categoryId": "2",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-GB",
+                "localized": {
+                    "title": "REBUILDING A WRECKED PORSCHE 992 GT3 | PT1",
+                    "description": "Check if your car was damaged with Car Vertical - 10% off here 👉 https://www.carvertical.com/gb/landing/britain?a=Matarmstrong&b=1e4c9523&voucher=Mat\n\nI bought Adam Lz's old Porsche 992 GT3 but the car is in Florida (4000miles away from home, so im using Tavarish's unit and tools to rebuild it whilst im over here. With the Porsche being a 2022 model parts are difficult to get and i am on a short time scale & now i have just found more damage that i originally thought.\n\nThanks -  https://www.e3customs.com/ - https://www.instagram.com/e3customs/?hl=en\n\n⬇️ FOR MORE CONTENT CHECK OUT MKY SECOND CHANNEL ⬇️\nhttps://www.youtube.com/@matarmstrongmk2387 \n\n⬇️ CHECK OUT TAVARISH'S CHANNEL HERE ⬇️\nhttps://www.youtube.com/@tavarish \n\n⬇️ ALL MA MERCHANDISE ⬇️\nhttps://matarmstrong.co.uk/\n\n⬇️ Follow Me Here Aswell ⬇️\nhttps://facebook.com/matarmstrongbmx\nhttps://instagram.com/matarmstrongbmx"
+                },
+                "defaultAudioLanguage": "en-GB"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "BbQZUXmJnO7pF4zpWNB5hO-f1E8",
+            "id": "D9byma2E0RE",
+            "snippet": {
+                "publishedAt": "2023-02-06T02:37:14Z",
+                "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
+                "title": "Bad Bunny stuns Grammys 2023 with all-Spanish opening act | New York Post",
+                "description": "Was it going to be Adele? Was it going to be Harry Styles? Or was it going to be the ever-elusive Beyoncé opening the 65th annual Grammy Awards at Crypto.com Arena — the first time the show has been held in LA since COVID shut the world down?\n\nIn fact, the primo placement went to Puerto Rican sensation Bad Bunny, who made history with “Un Verano Sin Ti,” the first Spanish-language LP to be nominated for Album of the Year.\n\nAnd now, he’s making Grammys’ history with what might be the most full-throttle all-Spanish opening extravaganza ever.\n\nKicking off his medley of “El Apagon” and “Despues De La Playa,” Bad Bunny, 28, brought the fiesta through the audience — no social distancing in 2023! — Bad Bunny made up for his no-show at last November’s American Music Awards, where he was the top nominee.\n\nRead more at https://nypost.com/2023/02/05/bad-bunny-stuns-grammys-2023-with-all-spanish-opening-act/\n\n#badbunny #grammys2023 #grammys \n\nThe New York Post is your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more.\n\nSubscribe to New York Post Sports: https://www.youtube.com/c/nypostsports\n\nCatch the latest news here: https://nypost.com/\nFollow The New York Post on:\nTwitter - https://twitter.com/nypost\nFacebook - https://www.facebook.com/NYPost",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/D9byma2E0RE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/D9byma2E0RE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/D9byma2E0RE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/D9byma2E0RE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/D9byma2E0RE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "New York Post",
+                "tags": [
+                    "new york post",
+                    "ny post",
+                    "nypost",
+                    "news",
+                    "us news",
+                    "breaking news",
+                    "world news",
+                    "latest news",
+                    "story",
+                    "top stories",
+                    "bad bunny",
+                    "grammys 2023",
+                    "bad bunny opening grammys",
+                    "bad bunny grammys 2023",
+                    "bad bunny album of the year",
+                    "bad bunny grammys 2023 performance",
+                    "grammys 2023 performances",
+                    "grammys 2023 bad bunny",
+                    "grammy awards",
+                    "2023 grammys",
+                    "2023 grammys bad bunny",
+                    "bad bunny songs",
+                    "bad bunny type beat",
+                    "grammys 2023 bad bunny performance",
+                    "grammys bad bunny",
+                    "bad bunny grammys performance"
+                ],
+                "categoryId": "25",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Bad Bunny stuns Grammys 2023 with all-Spanish opening act | New York Post",
+                    "description": "Was it going to be Adele? Was it going to be Harry Styles? Or was it going to be the ever-elusive Beyoncé opening the 65th annual Grammy Awards at Crypto.com Arena — the first time the show has been held in LA since COVID shut the world down?\n\nIn fact, the primo placement went to Puerto Rican sensation Bad Bunny, who made history with “Un Verano Sin Ti,” the first Spanish-language LP to be nominated for Album of the Year.\n\nAnd now, he’s making Grammys’ history with what might be the most full-throttle all-Spanish opening extravaganza ever.\n\nKicking off his medley of “El Apagon” and “Despues De La Playa,” Bad Bunny, 28, brought the fiesta through the audience — no social distancing in 2023! — Bad Bunny made up for his no-show at last November’s American Music Awards, where he was the top nominee.\n\nRead more at https://nypost.com/2023/02/05/bad-bunny-stuns-grammys-2023-with-all-spanish-opening-act/\n\n#badbunny #grammys2023 #grammys \n\nThe New York Post is your source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more.\n\nSubscribe to New York Post Sports: https://www.youtube.com/c/nypostsports\n\nCatch the latest news here: https://nypost.com/\nFollow The New York Post on:\nTwitter - https://twitter.com/nypost\nFacebook - https://www.facebook.com/NYPost"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "gjUoA4Y1gwYqQkSe6IrOdI0sBkI",
+            "id": "azg3JiCs3Bg",
+            "snippet": {
+                "publishedAt": "2023-02-06T04:46:17Z",
+                "channelId": "UCq4isO8ZYOZfmvGJ-_1UdIA",
+                "title": "LIZZO Wins Record Of The Year For 'About Damn Time' | 2023 GRAMMYs",
+                "description": "Watch LIZZO's acceptance speech for Record Of The Year for \"About Damn Time\" at the 2023 GRAMMYs.\n\nAbout the Recording Academy / GRAMMYs: \nRecording Academy is the world's leading society of musical professionals and is dedicated to celebrating, honoring, and sustaining music's past, present and future. \n\nConnect with the Recording Academy / GRAMMYs: \nWEBSITE: http://www.grammy.com\nFACEBOOK: http://grm.my/2gcTcMk \nTWITTER: http://grm.my/2gDUHUD  \nINSTAGRAM: http://grm.my/2gZGIvJ \n\nSubscribe NOW to the Recording Academy / GRAMMYs on YouTube: http://grm.my/1dTBF8H\n\n#GRAMMYs",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/azg3JiCs3Bg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/azg3JiCs3Bg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/azg3JiCs3Bg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/azg3JiCs3Bg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/azg3JiCs3Bg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Recording Academy / GRAMMYs",
+                "tags": [
+                    "grammy awards",
+                    "grammys",
+                    "grammy",
+                    "65th GRAMMYs",
+                    "65th GRAMMY Awards",
+                    "2023 GRAMMYs",
+                    "2023 GRAMMY Awards",
+                    "2023 GRAMMY",
+                    "album of the year",
+                    "song of the year",
+                    "best new artist",
+                    "record of the year",
+                    "Lizzo",
+                    "lizzo grammys",
+                    "lizzo 2023 grammys"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "LIZZO Wins Record Of The Year For 'About Damn Time' | 2023 GRAMMYs",
+                    "description": "Watch LIZZO's acceptance speech for Record Of The Year for \"About Damn Time\" at the 2023 GRAMMYs.\n\nAbout the Recording Academy / GRAMMYs: \nRecording Academy is the world's leading society of musical professionals and is dedicated to celebrating, honoring, and sustaining music's past, present and future. \n\nConnect with the Recording Academy / GRAMMYs: \nWEBSITE: http://www.grammy.com\nFACEBOOK: http://grm.my/2gcTcMk \nTWITTER: http://grm.my/2gDUHUD  \nINSTAGRAM: http://grm.my/2gZGIvJ \n\nSubscribe NOW to the Recording Academy / GRAMMYs on YouTube: http://grm.my/1dTBF8H\n\n#GRAMMYs"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Nk7fur4e0aIk7SoTrjC3V4LiPiM",
+            "id": "eO-J9N4YlXQ",
+            "snippet": {
+                "publishedAt": "2023-02-06T15:59:29Z",
+                "channelId": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+                "title": "Ai Generates Hilarious Motivational Posters",
+                "description": "Inspirobot is a website that AI generates hilarious motivational quotes\nBuy MY coffee: https://topofthemornincoffee.com/\n\nTwitter : https://twitter.com/Jacksepticeye\nInstagram : http://instagram.com/jacksepticeye\n\nEdited By: https://www.twitch.tv/pixl_pit",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eO-J9N4YlXQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eO-J9N4YlXQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eO-J9N4YlXQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eO-J9N4YlXQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eO-J9N4YlXQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "jacksepticeye",
+                "tags": [
+                    "jacksepticeye"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Ai Generates Hilarious Motivational Posters",
+                    "description": "Inspirobot is a website that AI generates hilarious motivational quotes\nBuy MY coffee: https://topofthemornincoffee.com/\n\nTwitter : https://twitter.com/Jacksepticeye\nInstagram : http://instagram.com/jacksepticeye\n\nEdited By: https://www.twitch.tv/pixl_pit"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "xgtYqisEz7MfEn5dUG5SMCBmUMc",
+            "id": "x4RX0zrMOnQ",
+            "snippet": {
+                "publishedAt": "2023-02-06T02:51:04Z",
+                "channelId": "UClzCn8DxRSCuMFv_WfzkcrQ",
+                "title": "THE 65TH ANNUAL GRAMMY AWARDS | Adele meets The Rock",
+                "description": "Adele and The Rock finally meet at The Grammy awards. Stream the GRAMMY Awards now on CBS and Paramount+.\n\nFollow CBS: \nFollow CBS on Facebook HERE: https://www.facebook.com/CBS\nFollow CBS on Twitter HERE: https://twitter.com/cbs\nFollow CBS on Instagram HERE: https://www.instagram.com/cbstv/\nFollow CBS on TikTok HERE: https://www.tiktok.com/@cbs\n\n#Grammys #TheRock #Adele",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/x4RX0zrMOnQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/x4RX0zrMOnQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/x4RX0zrMOnQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/x4RX0zrMOnQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/x4RX0zrMOnQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CBS",
+                "tags": [
+                    "grammy",
+                    "grammys",
+                    "grammy awards",
+                    "grammy award",
+                    "music",
+                    "the grammys",
+                    "Tyler Oakley",
+                    "grammy winners",
+                    "music videos",
+                    "music clips",
+                    "music video",
+                    "top songs",
+                    "pop music",
+                    "top music",
+                    "all music",
+                    "music search",
+                    "bands",
+                    "band",
+                    "singers",
+                    "musician",
+                    "music news",
+                    "grammies",
+                    "grammy award winners",
+                    "grammys winners",
+                    "red carpet",
+                    "fashion",
+                    "carpet",
+                    "red dresses",
+                    "red carpet dresses”",
+                    "celebrity dresses",
+                    "grammy red carpet",
+                    "dress",
+                    "dresses",
+                    "celebrity",
+                    "CBS",
+                    "news"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "THE 65TH ANNUAL GRAMMY AWARDS | Adele meets The Rock",
+                    "description": "Adele and The Rock finally meet at The Grammy awards. Stream the GRAMMY Awards now on CBS and Paramount+.\n\nFollow CBS: \nFollow CBS on Facebook HERE: https://www.facebook.com/CBS\nFollow CBS on Twitter HERE: https://twitter.com/cbs\nFollow CBS on Instagram HERE: https://www.instagram.com/cbstv/\nFollow CBS on TikTok HERE: https://www.tiktok.com/@cbs\n\n#Grammys #TheRock #Adele"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "Dr_YMnOaEgcBUhmJEDQN1EmyR_Q",
+            "id": "TjfGA8B99yk",
+            "snippet": {
+                "publishedAt": "2023-02-06T16:34:27Z",
+                "channelId": "UCarpqAWmTDGkYyJj5syhAxA",
+                "title": "3.8 Magnitude Earthquake Rattles WNY",
+                "description": "there was confusion ... because of a *whoosh sound ... and the feeling of an explosion. It happened at 6-15 waking up a lot of people.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TjfGA8B99yk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TjfGA8B99yk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TjfGA8B99yk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TjfGA8B99yk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "WGRZ-TV",
+                "tags": [
+                    "[ local",
+                    "as-seen-on-tv",
+                    "buffalo",
+                    "news ]",
+                    "west-seneca",
+                    "wny"
+                ],
+                "categoryId": "25",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "3.8 Magnitude Earthquake Rattles WNY",
+                    "description": "there was confusion ... because of a *whoosh sound ... and the feeling of an explosion. It happened at 6-15 waking up a lot of people."
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "UmvrtluTo6XOCulLpBNejKF-s00",
+            "id": "rdmhCLHa8L0",
+            "snippet": {
+                "publishedAt": "2023-02-06T16:00:01Z",
+                "channelId": "UCcgVECVN4OKV6DH1jLkqmcA",
+                "title": "i’m fighting a professional boxer.",
+                "description": "From Diriyah, Saudi Arabia\nSunday, February 26th\n2PM ET / 7PM GMT\n \nPay-per-view for sale:\n \n🇬🇧🇮🇪UK & Ireland: BT Sport Box Office\n🇺🇸USA: ESPN+ & all local cable and satellite providers\n🇨🇦Canada: DAZN, FITE.tv & all local cable and satellite providers\n🇦🇺Australia: Main Event on Foxtel & Kayo\n🇳🇿New Zealand: Sky Arena & Sky Sport\n🇩🇪Germany: Bild.de & FITE.TV\n🌍Rest of Europe: FITE.TV\n🌏Asia (excluding Middle-East): FITE.TV\n\n\n\ntext me im bored - 310-870-3349\n\n🔴SUBSCRIBE ➤ http://bit.ly/SUB2JAKEPAUL \n↪ watch sum mo stuff➤  LINK HERE\n\nINSTAGRAM ➤  https://www.instagram.com/JakePaul \nTWITTER ➤  http://twitter.com/JakePaul \n\n⚠ WARNING ⚠\nPlease be warned (and we cannot possibly stress this enough); under no circumstances should any challenges, stunts, or pranks be attempted by any of our viewers. All challenges, stunts, and pranks are performed by trained professionals in a controlled environment and are for entertainment purposes only. Again, do not try anything you see in this content at home and always consult a parent or adult with any questions or concerns.\n\n\n#PaulFury #JakePaul #TysonFury #SaudiArabiaBE",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rdmhCLHa8L0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rdmhCLHa8L0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rdmhCLHa8L0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rdmhCLHa8L0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rdmhCLHa8L0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Jake Paul",
+                "tags": [
+                    "jake paul"
+                ],
+                "categoryId": "22",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "i’m fighting a professional boxer.",
+                    "description": "From Diriyah, Saudi Arabia\nSunday, February 26th\n2PM ET / 7PM GMT\n \nPay-per-view for sale:\n \n🇬🇧🇮🇪UK & Ireland: BT Sport Box Office\n🇺🇸USA: ESPN+ & all local cable and satellite providers\n🇨🇦Canada: DAZN, FITE.tv & all local cable and satellite providers\n🇦🇺Australia: Main Event on Foxtel & Kayo\n🇳🇿New Zealand: Sky Arena & Sky Sport\n🇩🇪Germany: Bild.de & FITE.TV\n🌍Rest of Europe: FITE.TV\n🌏Asia (excluding Middle-East): FITE.TV\n\n\n\ntext me im bored - 310-870-3349\n\n🔴SUBSCRIBE ➤ http://bit.ly/SUB2JAKEPAUL \n↪ watch sum mo stuff➤  LINK HERE\n\nINSTAGRAM ➤  https://www.instagram.com/JakePaul \nTWITTER ➤  http://twitter.com/JakePaul \n\n⚠ WARNING ⚠\nPlease be warned (and we cannot possibly stress this enough); under no circumstances should any challenges, stunts, or pranks be attempted by any of our viewers. All challenges, stunts, and pranks are performed by trained professionals in a controlled environment and are for entertainment purposes only. Again, do not try anything you see in this content at home and always consult a parent or adult with any questions or concerns.\n\n\n#PaulFury #JakePaul #TysonFury #SaudiArabiaBE"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "N3SwUiP8HhGaBeHsk-E8zS1CUAE",
+            "id": "7qNOtgrIjO4",
+            "snippet": {
+                "publishedAt": "2023-02-06T16:00:08Z",
+                "channelId": "UCBa659QWEk1AI4Tg--mrJ2A",
+                "title": "Google gave the Shweeb $1,000,000.",
+                "description": "At Velocity Valley in Rotorua, New Zealand, there's the Shweeb: a pedal-powered monorail. It's a fun ride: but in 2010, Google gave it a million dollars as a potential \"future of transit\". ▪ Thanks to Velocity Valley: https://velocityvalley.co.nz/\n\nSOURCES:\nhttps://web.archive.org/web/20091109051951/http://shweeb.com/index.php?m=faq\nhttps://web.archive.org/web/20081012033535/http://www.project10tothe100.com/faq.html\nhttps://web.archive.org/web/20120506113239/http://www.google.com/onceuponatime/project10tothe100/\nhttps://www.bloomberg.com/news/articles/2012-03-27/whatever-happened-to-the-shweeb\nhttps://www.nzherald.co.nz/bay-of-plenty-times/business/13m-backing-for-shweeb/ERNGSPNILIFWR7YC4TU2A6DEYY/\nhttps://www.businessinsider.com/google-human-monorail-shweeb-2010-9\n\nCamera: Rakaea Te Rangi-Trotman\n\nI'm at https://tomscott.com\r\non Twitter at https://twitter.com/tomscott\r\non Facebook at https://facebook.com/tomscott\r\nand on Instagram as tomscottgo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7qNOtgrIjO4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7qNOtgrIjO4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7qNOtgrIjO4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7qNOtgrIjO4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7qNOtgrIjO4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Tom Scott",
+                "tags": [
+                    "tom scott",
+                    "tomscott"
+                ],
+                "categoryId": "27",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Google gave the Shweeb $1,000,000.",
+                    "description": "At Velocity Valley in Rotorua, New Zealand, there's the Shweeb: a pedal-powered monorail. It's a fun ride: but in 2010, Google gave it a million dollars as a potential \"future of transit\". ▪ Thanks to Velocity Valley: https://velocityvalley.co.nz/\n\nSOURCES:\nhttps://web.archive.org/web/20091109051951/http://shweeb.com/index.php?m=faq\nhttps://web.archive.org/web/20081012033535/http://www.project10tothe100.com/faq.html\nhttps://web.archive.org/web/20120506113239/http://www.google.com/onceuponatime/project10tothe100/\nhttps://www.bloomberg.com/news/articles/2012-03-27/whatever-happened-to-the-shweeb\nhttps://www.nzherald.co.nz/bay-of-plenty-times/business/13m-backing-for-shweeb/ERNGSPNILIFWR7YC4TU2A6DEYY/\nhttps://www.businessinsider.com/google-human-monorail-shweeb-2010-9\n\nCamera: Rakaea Te Rangi-Trotman\n\nI'm at https://tomscott.com\r\non Twitter at https://twitter.com/tomscott\r\non Facebook at https://facebook.com/tomscott\r\nand on Instagram as tomscottgo"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "pN84eu99sThgyxZOz-AYjI8QpjI",
+            "id": "LoiKA6t78xs",
+            "snippet": {
+                "publishedAt": "2023-02-05T18:37:00Z",
+                "channelId": "UCDogdKl7t7NHzQ95aEwkdMw",
+                "title": "SIDEMEN BRUTALLY RATE THEMSELVES",
+                "description": "🍗: Order food NOW at: https://www.eatsides.com/\n🎥: Access exclusive content at: https://www.sideplus.com/\n🍹: XIX Vodka: https://www.xixvodka.com/\n👉🏻: Subscribe to our Reacts Channel: https://www.youtube.com/SidemenReacts 👈🏻\n👕: Sidemen Clothing: http://www.sidemenclothing.com\n👉🏻 Subscribe to our 2nd Channel: https://www.youtube.com/MoreSidemen 👈🏻\n📸: Sidemen Instagram: http://www.instagram.com/Sidemen\n🐤: Sidemen Twitter: http://www.twitter.com/Sidemen\n\n✏️: SUBMIT A #SidemenSunday IDEA HERE\nhttps://forms.gle/JDuGrSzM4F6mdo6D9\n\n-----------------------------------------------------------------------------------------------------------------------\n\n▶️ SIDEMEN ◀️\n\n🔵 JOSH (Zerkaa)\n● http://www.youtube.com/Zerkaa\n● http://www.youtube.com/ZerkaaPlays\n● http://www.instagram.com/Zerkaa\n● http://www.twitter.com/ZerkaaHD\n\n🔴 HARRY (W2S)\n● http://www.youtube.com/W2S\n● http://www.youtube.com/W2SPlays\n● http://www.instagram.com/Wroetoshaw\n● http://www.twitter.com/Wroetoshaw\n\n🔵 VIK (Vikkstar123)\n● http://www.youtube.com/Vikkstar123\n● http://www.youtube.com/Vikkstar123HD\n● http://www.youtube.com/VikkstarPlays\n● http://www.instagram.com/Vikkstagram\n● http://www.twitter.com/Vikkstar123\n\n🔴 JJ (KSI)\n● http://www.youtube.com/KSI\n● http://www.youtube.com/KSIOlajidebtHD\n● http://www.instagram.com/KSI\n● http://www.twitter.com/KSIOlajidebt\n\n🔵 TOBI (Tobjizzle)\n● http://www.youtube.com/TBJZL\n● http://www.youtube.com/Editingaming\n● http://www.instagram.com/Tobjizzle\n● http://www.twitter.com/Tobjizzle\n\n🔴 ETHAN (Behzinga)\n● http://www.youtube.com/Behzinga\n● http://www.youtube.com/Beh2inga\n● http://www.instagram.com/Behzingagram\n● http://www.twitter.com/Behzinga\n\n🔵 SIMON (Miniminter)\n● http://www.youtube.com/Miniminter\n● http://www.youtube.com/MM7Games\n● http://www.instagram.com/Miniminter\n● http://www.twitter.com/Miniminter",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LoiKA6t78xs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LoiKA6t78xs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LoiKA6t78xs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LoiKA6t78xs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LoiKA6t78xs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Sidemen",
+                "tags": [
+                    "sidemen",
+                    "sidemen sunday",
+                    "#sidemensunday"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "SIDEMEN BRUTALLY RATE THEMSELVES",
+                    "description": "🍗: Order food NOW at: https://www.eatsides.com/\n🎥: Access exclusive content at: https://www.sideplus.com/\n🍹: XIX Vodka: https://www.xixvodka.com/\n👉🏻: Subscribe to our Reacts Channel: https://www.youtube.com/SidemenReacts 👈🏻\n👕: Sidemen Clothing: http://www.sidemenclothing.com\n👉🏻 Subscribe to our 2nd Channel: https://www.youtube.com/MoreSidemen 👈🏻\n📸: Sidemen Instagram: http://www.instagram.com/Sidemen\n🐤: Sidemen Twitter: http://www.twitter.com/Sidemen\n\n✏️: SUBMIT A #SidemenSunday IDEA HERE\nhttps://forms.gle/JDuGrSzM4F6mdo6D9\n\n-----------------------------------------------------------------------------------------------------------------------\n\n▶️ SIDEMEN ◀️\n\n🔵 JOSH (Zerkaa)\n● http://www.youtube.com/Zerkaa\n● http://www.youtube.com/ZerkaaPlays\n● http://www.instagram.com/Zerkaa\n● http://www.twitter.com/ZerkaaHD\n\n🔴 HARRY (W2S)\n● http://www.youtube.com/W2S\n● http://www.youtube.com/W2SPlays\n● http://www.instagram.com/Wroetoshaw\n● http://www.twitter.com/Wroetoshaw\n\n🔵 VIK (Vikkstar123)\n● http://www.youtube.com/Vikkstar123\n● http://www.youtube.com/Vikkstar123HD\n● http://www.youtube.com/VikkstarPlays\n● http://www.instagram.com/Vikkstagram\n● http://www.twitter.com/Vikkstar123\n\n🔴 JJ (KSI)\n● http://www.youtube.com/KSI\n● http://www.youtube.com/KSIOlajidebtHD\n● http://www.instagram.com/KSI\n● http://www.twitter.com/KSIOlajidebt\n\n🔵 TOBI (Tobjizzle)\n● http://www.youtube.com/TBJZL\n● http://www.youtube.com/Editingaming\n● http://www.instagram.com/Tobjizzle\n● http://www.twitter.com/Tobjizzle\n\n🔴 ETHAN (Behzinga)\n● http://www.youtube.com/Behzinga\n● http://www.youtube.com/Beh2inga\n● http://www.instagram.com/Behzingagram\n● http://www.twitter.com/Behzinga\n\n🔵 SIMON (Miniminter)\n● http://www.youtube.com/Miniminter\n● http://www.youtube.com/MM7Games\n● http://www.instagram.com/Miniminter\n● http://www.twitter.com/Miniminter"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "O1jWZ5wWZ2gXWiimJY6mH3jUNVg",
+            "id": "XWI5qf3fFUk",
+            "snippet": {
+                "publishedAt": "2023-02-06T09:06:30Z",
+                "channelId": "UC_F8DoJf9MZogEOU51TpTbQ",
+                "title": "Our Craziest Super Card Yet?! (New Season!)",
+                "description": "Turn Enemy Troops to Your Side with the SUPER MAGIC ARCHER!\nPlay the Challenge starting on 13th of February.\n\nLOVE & MAGIC! New Season!\nBalance Changes!\nUnlock new Magic Archer, Golem and Sparky Emotes!\nUnlock the Love Potion and Magic Archer Tower Skins!\nUnlock a FREE Rare Book of Cards from Pass Royale!\nNew Boosted Cards!\n\nAlso, Log got a Balance Change (video error):\nPushback: \nBefore: 1 tile \nAfter: 0.7 tiles (30% reduction)\n\nSee you in the Arena!\n\nTwitter ► https://twitter.com/ClashRoyale/\nInstagram ► https://www.instagram.com/clashroyale\nTikTok ► https://www.tiktok.com/@clashroyale\nFacebook ► https://www.facebook.com/ClashRoyale/\n\nENTER THE ARENA\nBuild your Battle Deck and outsmart the enemy in fast real-time battles. From the creators of CLASH OF CLANS comes a real-time multiplayer battle game starring your favourite Clash characters and more. Start battling against players from around the world!\n\nBECOME A MASTER OF STRATEGY AND DECK BUILDING\nChoose unique Cards to your Battle Deck and head to the Arena for Battle!\nPlace your Cards right and knock down the enemy King and Princesses from their Towers in a strategic and fast-paced match.\n\nCOLLECT AND UPGRADE 100+ CARDS\nHog Rider! Collect and upgrade 100+ Cards featuring the Clash of Clans troops, spells and defences you know and love and many others. Win battles and progress to new Arenas to unlock powerful new Cards to your collection!\n\nBATTLE YOUR WAY TO THE TOP\nBattle your way to the League and Global Tournaments to match against the best players in the world.\nCompete for glory and rewards!\n\nSEASONAL EVENTS\nUnlock new Seasonal items like Tower Skins, Emotes and powerful Magic Items with the Season Pass and participate in fun Challenges that put your skills to the test!\n\nJOIN A CLAN AND GO TO WAR\nJoin or form a Clan with other players to share Cards and battle in Clan Wars for BIG rewards!\n\nSee you in the Arena!\n#ClashRoyale",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XWI5qf3fFUk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XWI5qf3fFUk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XWI5qf3fFUk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XWI5qf3fFUk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XWI5qf3fFUk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Clash Royale",
+                "tags": [
+                    "Clash Royale",
+                    "Clash Royale Game",
+                    "Supercell",
+                    "Supercell Game",
+                    "Clash Royale Supercell",
+                    "Mobile Game"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Our Craziest Super Card Yet?! (New Season!)",
+                    "description": "Turn Enemy Troops to Your Side with the SUPER MAGIC ARCHER!\nPlay the Challenge starting on 13th of February.\n\nLOVE & MAGIC! New Season!\nBalance Changes!\nUnlock new Magic Archer, Golem and Sparky Emotes!\nUnlock the Love Potion and Magic Archer Tower Skins!\nUnlock a FREE Rare Book of Cards from Pass Royale!\nNew Boosted Cards!\n\nAlso, Log got a Balance Change (video error):\nPushback: \nBefore: 1 tile \nAfter: 0.7 tiles (30% reduction)\n\nSee you in the Arena!\n\nTwitter ► https://twitter.com/ClashRoyale/\nInstagram ► https://www.instagram.com/clashroyale\nTikTok ► https://www.tiktok.com/@clashroyale\nFacebook ► https://www.facebook.com/ClashRoyale/\n\nENTER THE ARENA\nBuild your Battle Deck and outsmart the enemy in fast real-time battles. From the creators of CLASH OF CLANS comes a real-time multiplayer battle game starring your favourite Clash characters and more. Start battling against players from around the world!\n\nBECOME A MASTER OF STRATEGY AND DECK BUILDING\nChoose unique Cards to your Battle Deck and head to the Arena for Battle!\nPlace your Cards right and knock down the enemy King and Princesses from their Towers in a strategic and fast-paced match.\n\nCOLLECT AND UPGRADE 100+ CARDS\nHog Rider! Collect and upgrade 100+ Cards featuring the Clash of Clans troops, spells and defences you know and love and many others. Win battles and progress to new Arenas to unlock powerful new Cards to your collection!\n\nBATTLE YOUR WAY TO THE TOP\nBattle your way to the League and Global Tournaments to match against the best players in the world.\nCompete for glory and rewards!\n\nSEASONAL EVENTS\nUnlock new Seasonal items like Tower Skins, Emotes and powerful Magic Items with the Season Pass and participate in fun Challenges that put your skills to the test!\n\nJOIN A CLAN AND GO TO WAR\nJoin or form a Clan with other players to share Cards and battle in Clan Wars for BIG rewards!\n\nSee you in the Arena!\n#ClashRoyale"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        }
+    ],
+    "nextPageToken": "CBkQAA",
+    "pageInfo": {
+        "totalResults": 200,
+        "resultsPerPage": 25
+    }
+}
