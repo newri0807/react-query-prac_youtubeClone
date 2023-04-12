@@ -29,7 +29,7 @@ export default function Nav() {
           placeholder="search here"
           value={input}
           onChange={valueHandle}
-          className="pr-2 pl-2 w-[100px] ml-1 lg:w-[450px]  bg-black appearance-none  py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-gray focus:border-gray-500"
+          className="pr-2 pl-2 w-[100px] ml-1 lg:w-[450px]  bg-black appearance-none  py-2 px-4 text-gray-300 leading-tight focus:outline-none focus:bg-gray focus:border-gray-500"
         />
         <button className="m-0 min-[40px]; flex justify-center items-center bg-neutral-700 text-slate-100 hover:bg-slate-700 p-2 w-auto">
           <GoSearch />

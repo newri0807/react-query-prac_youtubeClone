@@ -56,7 +56,7 @@ export default function RelatedList({ id }) {
     const years = Math.floor(months / 12);
     return `${years} years ago`;
   }
-  console.log("related", data);
+  //console.log("related", data);
   return (
     <div>
       {data &&
@@ -66,12 +66,11 @@ export default function RelatedList({ id }) {
             key={item.id.videoId}
             className="w-full cursor-pointer mb-2"
             onClick={() => {
-              // eslint-disable-next-line no-restricted-globals
               navigate(`/detail/${item.snippet.channelId}/${item.id.videoId}`);
             }}
           >
             <img
-              src={item.snippet.thumbnails.default.url}
+              src={item.snippet.thumbnails.standard.url}
               alt="thumbnail"
               className="w-full object-fill"
             />

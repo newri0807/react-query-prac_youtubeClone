@@ -1,11 +1,12 @@
 /* eslint-disable jsx-a11y/iframe-has-title */
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import RelatedList from "../components/RelatedList";
 import useList from "../hooks/useList";
 
 export default function Detail() {
   const apiKey = process.env.REACT_APP_YOUTUBE_API_KEY;
+  const [channelThumbnail, setChannelThumbnail] = useState("");
 
   //파라미터
   let { id } = useParams();
@@ -22,10 +23,30 @@ export default function Detail() {
   //   }
   // );
 
-  const { isLoading, isError, data, error } = useList([
+  const { isLoading, isError, data, error, updateData } = useList([
     `detailPage`,
     `https://youtube.googleapis.com/youtube/v3/videos?part=snippet&id=${id}&key=${apiKey}`,
   ]);
+
+  useEffect(() => {
+    updateData();
+  }, [id]);
+
+  useEffect(() => {
+    if (data) {
+      const channelId = data.items[0].snippet.channelId;
+      fetch(
+        `https://www.googleapis.com/youtube/v3/channels?part=snippet&id=${channelId}&key=${apiKey}`
+      )
+        .then((response) => response.json())
+        .then((data) => {
+          setChannelThumbnail(data.items[0].snippet.thumbnails.default.url);
+        })
+        .catch((error) => {
+          console.error("Error fetching channel thumbnail: ", error);
+        });
+    }
+  }, [data, apiKey]);
 
   if (isLoading) {
     return <span>Loading...</span>;
@@ -34,7 +55,7 @@ export default function Detail() {
   if (isError) {
     return <span>Error: {error.message}</span>;
   }
-  console.log("detail", data);
+  //console.log("detail", data);
 
   function convertLineBreaks(text) {
     return text.split("\n").map((line, index) => (
@@ -64,7 +85,7 @@ export default function Detail() {
               <div className="flex justify-start items-center mt-4">
                 <img
                   className="inline-block h-10 w-10 rounded-full"
-                  src={item.snippet.thumbnails.medium.url}
+                  src={channelThumbnail}
                   alt={`${item.snippet.channelTitle} 프로필 이미지`}
                 />
                 <h2 className="my-4 text-xl mx-3">
