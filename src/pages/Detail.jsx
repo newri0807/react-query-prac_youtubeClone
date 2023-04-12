@@ -8,7 +8,7 @@ export default function Detail() {
   const apiKey = process.env.REACT_APP_YOUTUBE_API_KEY;
 
   //파라미터
-  let { channelId, id } = useParams();
+  let { id } = useParams();
 
   // console.log(channelId);
   // const { isLoading, isError, data, error } = useQuery(
