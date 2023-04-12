@@ -1,8 +1,9 @@
 import React from "react";
-import { useParams } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import useList from "../hooks/useList";
 
 export default function Video() {
+  const navigate = useNavigate();
   //파라미터
   let { id } = useParams();
 
@@ -65,7 +66,7 @@ export default function Video() {
             className="p-3 cursor-pointer"
             onClick={() => {
               // eslint-disable-next-line no-restricted-globals
-              location.href = `/detail/${item.snippet.channelId}/${item.id.videoId}`;
+              navigate(`/detail/${item.snippet.channelId}/${item.id.videoId}`);
             }}
           >
             <img

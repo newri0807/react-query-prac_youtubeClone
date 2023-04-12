@@ -23,7 +23,7 @@ export default function Nav() {
       <Link to="/">
         <img src="/YouTube-Logo2.png" alt="logo" className="max-w-[100px] " />
       </Link>
-      <form onSubmit={formSubmit} className="flex w-full justify-center ">
+      <form onSubmit={formSubmit} className="flex w-full justify-center my-3 ">
         <input
           type="text"
           placeholder="search here"

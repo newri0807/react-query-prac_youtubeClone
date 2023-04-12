@@ -1,5 +1,6 @@
 import React from "react";
 import useList from "../hooks/useList";
+import { useNavigate } from "react-router-dom";
 export default function Home() {
   // const { isLoading, isError, data, error } = useQuery(
   //   ["mostPopular"],
@@ -16,6 +17,8 @@ export default function Home() {
 
   const apiKey = process.env.REACT_APP_YOUTUBE_API_KEY;
   console.log(apiKey);
+
+  const navigate = useNavigate();
   const { isLoading, isError, data, error } = useList([
     `mostPopular`,
     `https://youtube.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=25&key=${apiKey}`,
@@ -65,6 +68,7 @@ export default function Home() {
     const years = Math.floor(months / 12);
     return `${years} years ago`;
   }
+
   console.log(data);
   return (
     <ul className="grid lg:grid-cols-5 md:grid-cols-2 gap-4 border-t-[1px] border-gray-700 pt-5 ">
@@ -75,8 +79,7 @@ export default function Home() {
             key={item.id}
             className="p-3 cursor-pointer"
             onClick={() => {
-              // eslint-disable-next-line no-restricted-globals
-              location.href = `/detail/${item.snippet.channelId}/${item.id}`;
+              navigate(`/detail/${item.snippet.channelId}/${item.id}`);
             }}
           >
             <img

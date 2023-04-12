@@ -69,7 +69,11 @@ export default function RelatedList({ id }) {
             }}
           >
             <img
-              src={item.snippet.thumbnails.maxres.url}
+              src={
+                item.snippet.thumbnails.maxres.url
+                  ? item.snippet.thumbnails.maxres.url
+                  : item.snippet.thumbnails.medium.url
+              }
               alt="thumbnail"
               className="w-full object-fill"
             />
