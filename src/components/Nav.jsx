@@ -19,6 +19,7 @@ export default function Nav({ quotaExceeded }) {
       alert("API request quota exceeded. Please try again later.");
       return;
     }
+
     setInput(""); // 초기화
     Navigate(`/video/${input}`);
   };

@@ -1,8 +1,8 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect } from "react";
 import useList from "../hooks/useList";
 import { useNavigate } from "react-router-dom";
 import getRelativeTime from "../func/common";
-export default function Home() {
+export default function Home({ quotaExceeded, setQuotaExceeded }) {
   // const { isLoading, isError, data, error } = useQuery(
   //   ["mostPopular"],
   //   async () => {
@@ -18,7 +18,6 @@ export default function Home() {
 
   const apiKey = process.env.REACT_APP_YOUTUBE_API_KEY;
   const navigate = useNavigate();
-  const [quotaExceeded, setQuotaExceeded] = useState(false); // API 할당량 초과 여부 상태 추가
 
   useEffect(() => {
     // API 요청 제한 확인 함수
@@ -34,14 +33,14 @@ export default function Home() {
     }
 
     checkQuota();
-  }, [apiKey]);
+  }, [apiKey, setQuotaExceeded]);
 
   const { isLoading, isError, data, error } = useList([
     `mostPopular`,
     `https://youtube.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&maxResults=15&key=${apiKey}`,
   ]);
 
-  console.log(quotaExceeded);
+  //console.log(quotaExceeded);
 
   return (
     <>
