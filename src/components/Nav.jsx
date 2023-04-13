@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { GoSearch } from "react-icons/go";
 
-export default function Nav() {
+export default function Nav({ quotaExceeded }) {
   // 검색 관련
   const [input, setInput] = useState("");
   const valueHandle = (e) => {
@@ -14,6 +14,11 @@ export default function Nav() {
 
   const formSubmit = (e) => {
     e.preventDefault(); // 새로고침 x
+
+    if (quotaExceeded) {
+      alert("API request quota exceeded. Please try again later.");
+      return;
+    }
     setInput(""); // 초기화
     Navigate(`/video/${input}`);
   };
