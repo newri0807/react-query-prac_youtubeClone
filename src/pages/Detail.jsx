@@ -49,15 +49,6 @@ export default function Detail() {
     }
   }, [data, apiKey]);
 
-  if (isLoading) {
-    return <span>Loading...</span>;
-  }
-
-  if (isError) {
-    return <span>Error: {error.message}</span>;
-  }
-  //console.log("detail", data);
-
   function convertLineBreaks(text) {
     return text.split("\n").map((line, index) => (
       <React.Fragment key={index}>
@@ -67,9 +58,21 @@ export default function Detail() {
     ));
   }
 
+  console.log(data);
   return (
     <div className="w-full  md:px-1  mx-auto  border-t-[1px] border-gray-700 pt-5 flex justify-between flex-wrap">
       <div className="lg:w-2/3 sm:w-full w-full p-2">
+        {isLoading && (
+          <div className="w-full cursor-pointer relative h-0 pt-[56%]">
+            <span>Loading...</span>
+          </div>
+        )}
+
+        {isError && (
+          <div className="w-full cursor-pointer relative h-0 pt-[56%]">
+            <span>Error: {error.message}</span>
+          </div>
+        )}
         {data &&
           data.items.map((item) => (
             <div

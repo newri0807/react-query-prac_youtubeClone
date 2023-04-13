@@ -1,6 +1,7 @@
 import React from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import useList from "../hooks/useList";
+import getRelativeTime from "../func/common";
 
 export default function Video() {
   const navigate = useNavigate();
@@ -14,50 +15,20 @@ export default function Video() {
     `https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${id}&key=${apiKey}`,
   ]);
 
-  if (isLoading) {
-    return <span>Loading...</span>;
-  }
-
-  if (isError) {
-    return <span>Error: {error.message}</span>;
-  }
-
-  // 시간 계산 함수
-  function getRelativeTime(publishedAt) {
-    const datePublished = new Date(publishedAt);
-    const dateNow = new Date();
-    const diff = dateNow - datePublished;
-    const seconds = Math.floor(diff / 1000);
-
-    if (seconds < 60) {
-      return `${seconds} seconds ago`;
-    }
-
-    const minutes = Math.floor(diff / (1000 * 60));
-    if (minutes < 60) {
-      return `${minutes} minutes ago`;
-    }
-
-    const hours = Math.floor(diff / (1000 * 60 * 60));
-    if (hours < 24) {
-      return `${hours} hours ago`;
-    }
-
-    const days = Math.floor(diff / (1000 * 60 * 60 * 24));
-    if (days < 30) {
-      return `${days} days ago`;
-    }
-
-    const months = Math.floor(days / 30);
-    if (months < 12) {
-      return `${months} months ago`;
-    }
-
-    const years = Math.floor(months / 12);
-    return `${years} years ago`;
-  }
   return (
     <ul className="grid lg:grid-cols-5 md:grid-cols-2 gap-4 border-t-[1px] border-gray-700 pt-5 ">
+      {isLoading && (
+        <div className="w-full cursor-pointer mb-2">
+          <span>Loading...</span>
+        </div>
+      )}
+
+      {isError && (
+        <div className="w-full cursor-pointer mb-2">
+          <span>Error: {error.message}</span>
+        </div>
+      )}
+
       {data &&
         data.items.map((item) => (
           <li
